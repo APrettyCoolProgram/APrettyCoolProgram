@@ -1,6 +1,6 @@
 <!-- 260505 -->
 
-[The APCP Documentation Project](../README.md) ❱ Scoop ❱ Scoop Overview
+[The Documentation Project](../README.md) ❭ Scoop ❭ Scoop Overview
 
 ***
 
@@ -116,4 +116,4 @@ Make sure the required buckets are added::
 
 ***
 
-[The APCP Documentation Project](../README.md) ❱ Scoop ❱ Scoop Overview
+[The Documentation Project](../README.md) ❭ Scoop ❭ Scoop Overview

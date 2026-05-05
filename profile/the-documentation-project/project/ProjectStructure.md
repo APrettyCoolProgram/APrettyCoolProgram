@@ -1,6 +1,6 @@
 <!-- 260331 -->
 
-[The APCP Documentation Project](../README.md) ❱ Project ❱ Structure
+[The Documentation Project](../README.md) ❭ Project ❭ Structure
 
 ***
 
@@ -35,4 +35,4 @@ src/
 
 ***
 
-[The APCP Documentation Project](../README.md) ❱ Project ❱ Structure
+[The Documentation Project](../README.md) ❭ Project ❭ Structure

@@ -1,6 +1,6 @@
 <!-- 260501 -->
 
-[The APCP Documentation Project](../README.md) ❱ WSL ❱ WSL Basics
+[The Documentation Project](../README.md) ❭ WSL ❭ WSL Basics
 
 ***
 
@@ -68,4 +68,4 @@ Unmount a disk given at the disk path, if no disk path is given then this comman
 
 ***
 
-[The APCP Documentation Project](../README.md) ❱ WSL ❱ WSL Basics
+[The Documentation Project](../README.md) ❭ WSL ❭ WSL Basics

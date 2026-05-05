@@ -1,6 +1,6 @@
 <!-- 260402 -->
 
-[The APCP Documentation Project](../README.md) ❱ Application ❱ Sandcastle
+[The Documentation Project](../README.md) ❭ Application ❭ Sandcastle
 
 ***
 
@@ -191,4 +191,4 @@ A few minutes after the `myproject` repository has been updated, the GitHub Page
 
 ***
 
-[The APCP Documentation Project](../README.md) ❱ Application ❱ Sandcastle
+[The Documentation Project](../README.md) ❭ Application ❭ Sandcastle

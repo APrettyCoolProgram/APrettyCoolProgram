@@ -1,6 +1,6 @@
 <!-- 260402 -->
 
-[The APCP Documentation Project](../README.md) ❱ Documentation ❱ Mermaid
+[The Documentation Project](../README.md) ❭ Documentation ❭ Mermaid
 
 ***
 
@@ -677,4 +677,4 @@ flowchart LR
 
 ***
 
-[The APCP Documentation Project](../README.md) ❱ Documentation ❱ Mermaid
+[The Documentation Project](../README.md) ❭ Documentation ❭ Mermaid

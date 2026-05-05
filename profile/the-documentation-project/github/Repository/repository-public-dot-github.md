@@ -1,6 +1,6 @@
 <!-- 260331 -->
 
-[The APCP Documentation Project](../README.md) ❱ Repository ❱ The public .github repository
+[The Documentation Project](../README.md) ❭ Repository ❭ The public .github repository
 
 ***
 
@@ -92,4 +92,4 @@ To create a file that is accessible by individual repositories:
 
 ***
 
-[The APCP Documentation Project](../README.md) ❱ Repository ❱ The public .github repository
+[The Documentation Project](../README.md) ❭ Repository ❭ The public .github repository

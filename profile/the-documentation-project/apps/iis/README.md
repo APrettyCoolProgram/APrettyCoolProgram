@@ -1,12 +1,12 @@
-﻿<!-- 260402 -->
+﻿<!-- 260505 -->
 
-[The APCP Documentation Project](../README.md) ❱ Applications ❱ Internet Information Services
+[The Documentation Project](../README.md) ❭ Applications ❭ Internet Information Services
 
 ***
 
-### The Documentation Project
-
 <div align="center">
+
+### The Documentation Project
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../../../.github/repository/logo/apcp-logo-dark-256x256.png">
@@ -111,4 +111,4 @@ If the server does not reboot automatically, reboot manually.
 
 ***
 
-[The APCP Documentation Project](../README.md) ❱ Application ❱ Internet Information Services
+[The Documentation Project](../README.md) ❭ Application ❭ Internet Information Services

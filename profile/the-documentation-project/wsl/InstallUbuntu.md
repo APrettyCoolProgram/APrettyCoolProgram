@@ -1,6 +1,6 @@
 <!-- 260501 -->
 
-[The APCP Documentation Project](../README.md) ❱ WSL ❱ Install a WSL Ubuntu distribution
+[The Documentation Project](../README.md) ❭ WSL ❭ Install a WSL Ubuntu distribution
 
 ***
 
@@ -49,4 +49,4 @@ wsl --export Ubuntu Wsl-Ubuntu-Base-YYMMDD.vhdx --vhd
 
 ***
 
-[The APCP Documentation Project](../README.md) ❱ WSL ❱ Install a WSL Ubuntu distribution
+[The Documentation Project](../README.md) ❭ WSL ❭ Install a WSL Ubuntu distribution
