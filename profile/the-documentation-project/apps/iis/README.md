@@ -18,7 +18,7 @@
 
 </div>
 
-# Installing Microsoft IIS
+# Installing Microsoft Internet Information Services
 
 ```mermaid
 flowchart LR
