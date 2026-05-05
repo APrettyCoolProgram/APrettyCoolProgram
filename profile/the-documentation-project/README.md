@@ -14,10 +14,10 @@
 
 ## Applications
 
-- [Internet Information Services](applications/internet-information-services/README.md)
-- [Sandcastle Help File Builder](applications/sandcastle-help-file-builder/README.md)
-- [Scoop](applications/scoop/README.md)
-- [Visual Studio](applications/visual-studio/README.md)
+- [Internet Information Services](apps/iis/README.md)
+- [Sandcastle Help File Builder](apps/shfb/README.md)
+- [Scoop](apps/scoop/README.md)
+- [Visual Studio](apps/vs/README.md)
 
 ## Backgrounds
 
