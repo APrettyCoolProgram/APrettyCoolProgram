@@ -4,7 +4,7 @@
 
 ***
 
-### The APCP Documentation Project
+### The Documentation Project
 
 <div align="center">
 
