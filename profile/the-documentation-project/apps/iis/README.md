@@ -53,7 +53,7 @@ flowchart LR
 
 <div align="center">
 
-  ![](setup-iis-03.png)
+  ![](setup-iis-03.jpg)
 
 </div>
 
@@ -86,6 +86,7 @@ flowchart LR
 
 </div>
 
+> [!NOTE]
 > If you didn't follow the order above, you may get a popup letting you know that required features are missing. Just click ***Add Features***, and continue.
 
 8. Click ***Next***, and you should see the confirmation screen:
@@ -104,8 +105,6 @@ flowchart LR
 If you checked the *Restart the destination server automatically if required* box on the confirmation screen, the server should reboot automatically.
 
 If the server does not reboot automatically, reboot manually.
-
-<br>
 
 ***
 
