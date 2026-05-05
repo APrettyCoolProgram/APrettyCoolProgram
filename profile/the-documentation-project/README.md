@@ -17,7 +17,9 @@
 - [Internet Information Services](apps/iis/README.md)
 - [Sandcastle Help File Builder](apps/shfb/README.md)
 - [Scoop](apps/scoop/README.md)
-- [Visual Studio](apps/vs/README.md)
+- Visual Studio 2026  
+  - [Publishing Projects](apps/vs/2026/publish/README.md)
+  - [Setup](apps/vs/2026/setup/README.md)
 
 ## Backgrounds
 
