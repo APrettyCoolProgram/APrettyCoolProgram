@@ -33,7 +33,6 @@ flowchart LR
 ```
 
 1. Launch the **Server Manager** application
-
 2. Under **Server Roles**, check the box next to **Web Server (IIS)**
 
 <div align="center">
@@ -42,7 +41,7 @@ flowchart LR
 
 </div>
 
-2. If a popup suggests you include the *IIS Mangement Console* tools, checked, then click ***Add Features***
+3. If a popup suggests you include the *IIS Mangement Console* tools, checked, then click ***Add Features***
 
 <div align="center">
 
@@ -50,7 +49,7 @@ flowchart LR
 
 </div>
 
-3. Under **Features**, add the **Windows Process Activation Service**
+4. Under **Features**, add the **Windows Process Activation Service**
 
 <div align="center">
 
@@ -58,7 +57,7 @@ flowchart LR
 
 </div>
 
-4. Under **Web Server Role (IIS) > Role Services**, verify that the components highlighted green are set properly
+5. Under **Web Server Role (IIS) > Role Services**, verify that the components highlighted green are set properly
 
 <div align="center">
 
@@ -66,7 +65,7 @@ flowchart LR
 
 </div>
 
-4. Under **Web Server Role (IIS) > Role Services**, check **Application Development**
+6. Under **Web Server Role (IIS) > Role Services**, check **Application Development**
 
 <div align="center">
 
@@ -74,7 +73,7 @@ flowchart LR
 
 </div>
 
-5. In the **Application Development** section, check the following *in this order*:
+7. In the **Application Development** section, check the following *in this order*:
 
 * **ISAPI Filters**
 * **ISAPI Extensions**
@@ -89,7 +88,7 @@ flowchart LR
 
 > If you didn't follow the order above, you may get a popup letting you know that required features are missing. Just click ***Add Features***, and continue.
 
-6. Click ***Next***, and you should see the confirmation screen:
+8. Click ***Next***, and you should see the confirmation screen:
 
 <div align="center">
 
@@ -97,9 +96,8 @@ flowchart LR
 
 </div>
 
-7. Click ***Install***
-
-8. Once the installation is complete, click ***Close***
+9. Click ***Install***
+10. Once the installation is complete, click ***Close***
 
 ## Reboot
 
