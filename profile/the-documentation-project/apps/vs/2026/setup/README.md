@@ -14,7 +14,7 @@
     <img alt="Fallback image description" src="../../../.github/repository/logo/apcp-logo-light-256x256.png">
   </picture>
 
-  ### APCP ❭ Documentation Project ❭ Applications ❭ **Publishing Visual Studio Projects**
+# Visual Studio 2026: Publishing Projects
 
 </div>
 
