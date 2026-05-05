@@ -45,7 +45,7 @@ flowchart LR
 
 <div align="center">
 
-  ![](setup-iis-02.jpg)
+  ![](setup-iis-02.png)
 
 </div>
 
