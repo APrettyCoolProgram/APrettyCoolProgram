@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Repository-Template"
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "SynthWave '84"
+	}
+}
