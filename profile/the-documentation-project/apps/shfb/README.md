@@ -1,12 +1,12 @@
-<!-- 260402 -->
+<!-- 260505 -->
 
-[The Documentation Project](../README.md) ❭ Application ❭ Sandcastle
+[The Documentation Project](../README.md) ❭ Application ❭ Sandcastle Help File Builder
 
 ***
 
-### The Documentation Project
-
 <div align="center">
+
+### The Documentation Project
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../../../.github/repository/logo/apcp-logo-dark-256x256.png">
@@ -17,8 +17,6 @@
 # Sandcastle Help File Builder
 
 </div>
-
-<br>
 
 # Installing and setting up Sandcastle Help File Builder
 
@@ -187,8 +185,6 @@ flowchart TB
 
 A few minutes after the `myproject` repository has been updated, the GitHub Pages site will be refreshed.
 
-<br>
-
 ***
 
-[The Documentation Project](../README.md) ❭ Application ❭ Sandcastle
+[The Documentation Project](../README.md) ❭ Application ❭ Sandcastle Help File Builder
