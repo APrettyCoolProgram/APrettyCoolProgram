@@ -8,7 +8,7 @@
     <img alt="Fallback image description" src=".github/repository/logo/apcp-logo-light-256x256.png">
   </picture>
 
-  <h1>The APCP Documentation Project</h1>
+  <h1>The Documentation Project</h1>
 
 </div>
 
