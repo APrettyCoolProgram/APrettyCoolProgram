@@ -14,25 +14,26 @@
 
 ## Applications
 
-- [Internet Information Services](Applications/InternetInformationServices/README.md)
-- [Sandcastle Help File Builder](Applications/SandcastleHelpFileBuilder/README.md)
-- [Visual Studio](Applications/VisualStudio/README.md)
+- [Internet Information Services](applications/internet-information-services/README.md)
+- [Sandcastle Help File Builder](applications/sandcastle-help-file-builder/README.md)
+- [Scoop](applications/scoop/README.md)
+- [Visual Studio](applications/visual-studio/README.md)
 
 ## Backgrounds
 
-- [Claudia IDE](Backgrounds/Claudia/)  
-- [Desktop wallpaper](Backgrounds/Desktop/)  
+- [Claudia IDE](backgrounds/Claudia/)  
+- [Desktop wallpaper](backgrounds/Desktop/)  
 
 ## Documentation guidelines
 
-- [Markdown](Documentation/Markdown.md)
-- [Mermaid](Documentation/Mermaid.md)
-- [XML documentation](Documentation/XmlDocumentation.md)
+- [Markdown](documentation/Markdown.md)
+- [Mermaid](documentation/Mermaid.md)
+- [XML documentation](documentation/XmlDocumentation.md)
 
 ## Dotfiles
 
-- [AutoHotkey](Dotfile/AutoHotKey.ahk)
-- [Visual Studio 2026 .vssetttings](Dotfile/vs2026-exported-250311.vssettings)
+- [AutoHotkey](dotfiles/AutoHotKey.ahk)
+- [Visual Studio 2026 .vssetttings](dotfiles/vs2026-exported-250311.vssettings)
 
 ## GitHub
 
