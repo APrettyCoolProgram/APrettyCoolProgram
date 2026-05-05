@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[The Documentation Project](profile/the-documentation-project/README.md)
+
+
 <!--
 **APrettyCoolProgram/APrettyCoolProgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
