@@ -1,6 +1,6 @@
 ﻿<!-- 260402 -->
 
-[The APCP Documentation Project](../README.md) ❱ Application ❱ Internet Information Services
+[The APCP Documentation Project](../README.md) ❱ Applications ❱ Internet Information Services
 
 ***
 
@@ -9,9 +9,9 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../../.github/Repository/Logo/apcp-logo-dark-256x256.png">
-    <source media="(prefers-color-scheme: light)" srcset="../../.github/Repository/Logo/apcp-logo-light-256x256.png">
-    <img alt="Fallback image description" src="../../.github/Repository/Logo/apcp-logo-light-256x256.png">
+    <source media="(prefers-color-scheme: dark)" srcset="../../../.github/Repository/Logo/apcp-logo-dark-256x256.png">
+    <source media="(prefers-color-scheme: light)" srcset="../../../.github/Repository/Logo/apcp-logo-light-256x256.png">
+    <img alt="Fallback image description" src="../../../.github/Repository/Logo/apcp-logo-light-256x256.png">
   </picture>
 
 # Internet Information Services
