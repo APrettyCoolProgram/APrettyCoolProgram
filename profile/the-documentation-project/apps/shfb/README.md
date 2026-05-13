@@ -20,17 +20,17 @@
 
 # Installing and setting up Sandcastle Help File Builder
 
-* [Integration with Visual Studio 2022](#integration-with-visual-studio-2022)
-* [Create a new Visual Studio 2022 Documentation Project](#create-a-new-visual-studio-2022-documentation-project)
+* [Integration with Visual Studio](#integration-with-visual-studio)
+* [Create a new Visual Studio Documentation Project](#create-a-new-visual-studio-documentation-project)
 * [Generating Sandcastle documentation](#generating-sandcastle-documentation)
 
-# Integration with Visual Studio 2022
+# Integration with Visual Studio
 
 Install the latest version of the [Sandcastle Help File Builder](https://github.com/EWSoftware/SHFB).
 
 It is recommended to also install the [Extended XML Doc Comments Provider (VS2022+)](https://marketplace.visualstudio.com/items?itemName=EWoodruff.ExtendedDocCommentsProvider2022) extension.
 
-# Create a new Visual Studio 2022 Documentation Project
+# Create a new Visual Studio Documentation Project
 
 You will need to create a Documentation Project for each project you want to document.
 
