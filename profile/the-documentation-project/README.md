@@ -39,11 +39,12 @@
 
 ## GitHub
 
-### Copilot
+## AI
 
-- [copilot-instructions.md](GitHub/Copilot/copilot-instructions.md)
+- [AGENT.md](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/AGENTS.md)
+- [XML Documentation C# Agent](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/.github/agents/xml-documentation-csharp-agent.md)
 
-### Repositories
+## Repositories
 
 - GitHub [repository template](https://github.com/APrettyCoolProgram/Repository-Template)
 - Public [.github](https://github.com/APrettyCoolProgram/.github) repository
