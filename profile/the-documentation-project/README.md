@@ -12,6 +12,11 @@
 
 </div>
 
+## AI
+
+- [AGENT.md](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/AGENTS.md)
+- [XML Documentation C# Agent](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/.github/agents/xml-documentation-csharp-agent.md)
+
 ## Applications
 
 - [Internet Information Services](apps/iis/README.md)
@@ -37,24 +42,17 @@
 - [AutoHotkey](dotfiles/AutoHotKey.ahk)
 - [Visual Studio 2026 .vssetttings](dotfiles/vs2026-exported-250311.vssettings)
 
-## GitHub
+## Projects
 
-## AI
-
-- [AGENT.md](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/AGENTS.md)
-- [XML Documentation C# Agent](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/.github/agents/xml-documentation-csharp-agent.md)
-
+- [Project structure](Project/ProjectStructure.md)
+- The [ProjectInfo](Project/ProjectInfoFile.md) file
+- 
 ## Repositories
 
 - GitHub [repository template](https://github.com/APrettyCoolProgram/Repository-Template)
 - Public [.github](https://github.com/APrettyCoolProgram/.github) repository
 - Repository [.gitignore](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/.gitignore) file
 - Repository README: [collections](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/Collection-README.md) / [source code](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/SourceCode-README.md)
-
-## Projects
-
-- [Project structure](Project/ProjectStructure.md)
-- The [ProjectInfo](Project/ProjectInfoFile.md) file
 
 ## Scoop
 
