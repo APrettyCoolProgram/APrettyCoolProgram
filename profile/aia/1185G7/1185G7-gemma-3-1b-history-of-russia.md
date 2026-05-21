@@ -1,12 +1,3 @@
-# What is the history of Russia?
-
-## gemma-2-1b
-
-| Tok/Sec    | Tokens     | TTFT       | Stop Reason     |
-| ---------- | ---------- | ---------- | --------------- |
-| 32.15      | 1560       | 0.36s      | EOS Token Found |
-
-```text
 Okay, let's dive into the fascinating and complex history of Russia! It’s a story spanning millennia, marked by powerful empires, brutal conquests, cultural shifts, and enduring resilience. Here's a breakdown, broken down into key periods:
 
 **1. Prehistoric & Early Slavic Period (Before 8th Century AD):**
@@ -73,4 +64,3 @@ Would you like me to delve deeper into a specific period, event, or aspect of Ru
 
 *   Do you want to know more about a particular dynasty (e.g., the Romanovs)?
 *   Are you interested in a specific theme (e.g., the impact of religion on Russian society)?
-```
