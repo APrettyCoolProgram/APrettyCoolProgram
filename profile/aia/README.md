@@ -2,6 +2,8 @@
 
 * Coding
   * [CSharp: Capitalize file content](#csharp-capitalize-file-content)
+* Creative
+  * [Time Travel Treasure Story](#time-travel-treasure-story)
 * Food
   * [Italian Recipes](#italian-recipes)
 * Misc
@@ -27,7 +29,7 @@ Write a C-Sharp method that reads a file, capitalizes any lowercase letters, and
 
 <!-- CREATIVE -->
 
-## A short story
+## Time Travel Treasure Story
 
 ```text
 Write a story about a teenage boy named "Larry" and his best friend, a talking armadillo named "Wonkypants. The two go on a time-traveling adventure to find a hidden treasure.
