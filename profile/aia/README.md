@@ -6,13 +6,12 @@
   * [Time Travel Treasure Story](#time-travel-treasure-story)
 * Food
   * [Italian Recipes](#italian-recipes)
-* Misc
-  * [55 Questions](#55-questions)
 * Music
   * [Steely Dan](#steely-dan)
+* Questions
+  * [55 Questions](#55-questions)
 * World
   * [History of Russia](#history-of-russia)
-
 ---
 
 <!-- CODING -->
@@ -58,10 +57,12 @@ Chapter 4: 1000 years in the future, where they meet a group of rebels fighting 
 Chapter 5: Back in the present day, Larry and Wonkypants find themselves in their basement, where they discover that the hidden treasure was their friendship all along. They sit down together and share a moment of reflection, realizing that their adventure has brought them closer together and taught them the true value of friendship.
 ```
 
+
+
 | 1185G7                                                                     | Time     | Tok/Sec    | Tokens     | TTFT       | Stop Reason     |
 | ---------------------------------------------------------------------- | -------- | ---------- | ---------- | ---------- | --------------- |
 | [gemma-3-1b](1185G7/1185G7-gemma-3-1b-time-travel-treasure-story.md)   | 00:59    | 31.10      | 1708       | 1.99s      | EOS Token Found |
-| [gemma-4-e4b](1185G7/1185G7-gemma-4-e4b-time-travel-treasure-story.md) | 00:00    | 0          | 0          | 0s         | EOS Token Found |
+| [gemma-4-e4b](1185G7/1185G7-gemma-4-e4b-time-travel-treasure-story.md) | 19:00    | 3.07          | 3329          | 33.95s         | Content Length Limit Reached |
 
 ---
 
@@ -80,9 +81,34 @@ Give me three Italian recipes that are easy to make at home. Include the ingredi
 
 ---
 
-<!-- MISC -->
+<!-- QUESTIONS -->
 
-# 55 Questions
+# 10 Questions
+
+```text
+
+```
+
+# 20 Questions
+
+```text
+Answer/solve the following:
+1. What happens if you divide by zero?
+```
+
+# 30 Questions
+
+```text
+
+```
+
+# 40 Questions
+
+```text
+Answer/solve the following:
+```
+
+# 50 Questions
 
 ```text
 Answer/solve the following:
