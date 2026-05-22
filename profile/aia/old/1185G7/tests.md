@@ -2,13 +2,13 @@
 
 ---
 
-## X. A short joke
-
-### Prompt
+### 1. A Short Joke
 
 ```text
 Tell me a short joke.
 ```
+
+### 2. A Riddle
 
 ### Results
 
@@ -501,32 +501,7 @@ If you were a question, what question would you be?
 
 ### Prompt
 
-```text
-Write a story about a teenage boy named "Larry" and his best friend, a talking armadillo named "Wonkypants. The two go on a time-traveling adventure to find a hidden treasure.
 
-Larry is:
-- 16 years old
-- Has one arm that's longer than the other
-- Sometimes wears a cape made out of old bedsheets
-- Occasionally speaks French for no apparent reason
-
-Wonkypants is:
-- A former member of the Mexican drug cartel
-- Is currently on the run from the law
-- Is an expert in martial arts, specifically nun-chucks
-
-The story should have five chapters:
-
-Chapter 1: Present day, focusing on the characters meeting for the first time, becoming friends, and discovering the existence of a time machine hidden in their basement along with a mysterious map that leads to a hidden treasure.
-
-Chapter 2: Ancient Egypt, where they encounter a young female pharaoh named "Cleopatra" who thinks Larry is cute. She teaches the characters about the treasure's connection to Egyptian mythology. Cleopatra believes the treasure will grant her eternal life, beauty, and a never-ending supply of Oreo snack cookies. Cleopatra tries to keep Larry and Wonkypants in Egypt to be her royal advisors, but they manage to escape by placing a curse upon Egypt that causes all Egyptians to become the living dead, forever wandering the desert in search of the treasure.
-
-Chapter 3: The Renaissance, where they meet Leonardo da Vinci, who is unknown and makes a living as a stand-up comedian who uses the stage name "Leonardo DaInvinta". In his spare time, Leonardo is working on a secret invention that that can detect the location of the hidden treasure, but he needs Larry and Wonkypants' help to complete it. As they finish the invention, they realize that Leonardo is actually a time traveler from the future who sent himself back in time to find the treasure, believing it will allow him to enslave humanity and rule the world. Larry and Wonkypants manage to outsmart Leonardo and escape when Wonkypants uses his armadillo shell to deflect a laser beam that Leonardo fires at them, causing it to ricochet and hit a nearby wall, creating a hole that they can escape through. As the hole collapses, they can hear Leonardo maniacally laughing and vowing revenge.
-
-Chapter 4: 1000 years in the future, where they meet a group of rebels fighting against an oppressive regime led by a anamorphic bulldozer named "Crusher" that has taken over the world. The rebels, who only speak in pronouns, believe that the hidden treasure is the key to defeating the regime, restoring freedom to humanity, and re-discovering complex languages. They join forces with Larry and Wonkypants to find it. As they search for the treasure, they discover that the regime is actually led by Leonardo, who has used his knowledge of the future to amass power and control over humanity. Larry and Wonkypants manage to defeat Leonardo by using Leonardo's laser and shrinking him down to the size of an atom. As they celebrate their victory, the time machine - which has developed sentience and calls itself "Satan, Teller of Lies", uses it's magic powers to send Larry and Wonkypants back to the present day.
-
-Chapter 5: Back in the present day, Larry and Wonkypants find themselves in their basement, where they discover that the hidden treasure was their friendship all along. They sit down together and share a moment of reflection, realizing that their adventure has brought them closer together and taught them the true value of friendship.
-```
 
 ### Results
 
