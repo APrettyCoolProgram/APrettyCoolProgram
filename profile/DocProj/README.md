@@ -66,6 +66,6 @@
 
 | Topic                                                                 |   |
 |:----------------------------------------------------------------------|---|
-| [Windows Subsystem for Linux (WSL)](#windows-subsystem-for-linux-wsl) |   |
+| [Windows Subsystem for Linux (WSL)](./WSL/README.md) |   |
 
 </details>
