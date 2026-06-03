@@ -46,18 +46,18 @@
 <details>
 <summary>GitHub</summary>
 
-| Topic                                       |   |
-|:--------------------------------------------|---|
-| [Repository template](#repository-template) |   |
+| Topic                                                                            |                                                        |
+|:---------------------------------------------------------------------------------|--------------------------------------------------------|
+| [Repository template](https://github.com/APrettyCoolProgram/Repository-Template) | A GitHub repository template for creating new projects |
 
 </details>
 
 <details>
 <summary>Miscellaneous</summary>
 
-| Topic                                     |   |
-|:------------------------------------------|---|
-| [Desktop wallpapers](#desktop-wallpapers) |   |
+| Topic                                                            |                    |
+|:-----------------------------------------------------------------|--------------------|
+| [Desktop wallpapers](./Miscellaneous/README.md) | Desktop wallpapers |
 
 </details>
 

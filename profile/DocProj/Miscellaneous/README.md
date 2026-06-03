@@ -1,4 +1,4 @@
-[🏠︎](README.md) ❭ Miscellaneous > Desktop Wallpaper
+[🏠︎](README.md) ❭ Miscellaneous
 
 <div align="center">
 
@@ -10,17 +10,20 @@
     <img alt="Fallback image description" src="../../../.github/repository/logo/apcp-logo-light-256x256.png">
   </picture>
 
-![](GetCoffeeAndWriteCode-Grey.png)
-![](GetCoffeeAndWriteCode-Red.png)
-![](KeepCalmAndKeepCoding.jpg)
-![](KeepCalmAndRewriteYourEntireCodebase.png)
-![](ProgrammerCoffeeCode.jpg)
+# Miscellaneous
 
+## Desktop wallpapers
+
+![](./DesktopWallpaper/GetCoffeeAndWriteCode-Grey.png)
+![](./DesktopWallpaper/GetCoffeeAndWriteCode-Red.png)
+![](./DesktopWallpaper/KeepCalmAndKeepCoding.jpg)
+![](./DesktopWallpaper/KeepCalmAndRewriteYourEntireCodebase.png)
+![](./DesktopWallpaper/ProgrammerCoffeeCode.jpg)
 
 <br/>
 
 ***
 
-[🏠︎](README.md) ❭ Miscellaneous > Desktop Wallpaper
+[🏠︎](README.md) ❭ Miscellaneous
 
 <sub>Last updated: 260603</sub>
