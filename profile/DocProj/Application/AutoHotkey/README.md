@@ -25,4 +25,4 @@ AutoHotkey is a free, open-source scripting language for Windows that allows use
 
 [🏠︎](README.md) ❭ Applications > AutoHotkey
 
-<sub>Last updated: 2024-06-01</sub>
+<sub>Last updated: 260603/sub>

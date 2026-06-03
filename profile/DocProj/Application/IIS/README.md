@@ -1,8 +1,4 @@
-﻿<!-- 260505 -->
-
-[The Documentation Project](../README.md) ❭ Applications ❭ Internet Information Services
-
-***
+﻿[🏠︎](README.md) ❭ Applications > Internet Information Services
 
 <div align="center">
 
@@ -18,7 +14,7 @@
 
 </div>
 
-# Installing Microsoft Internet Information Services
+## Installing Microsoft Internet Information Services
 
 ```mermaid
 flowchart LR
@@ -100,12 +96,16 @@ flowchart LR
 9. Click ***Install***
 10. Once the installation is complete, click ***Close***
 
-## Reboot
+### Reboot
 
 If you checked the *Restart the destination server automatically if required* box on the confirmation screen, the server should reboot automatically.
 
 If the server does not reboot automatically, reboot manually.
 
+<br/>
+
 ***
 
-[The Documentation Project](../README.md) ❭ Application ❭ Internet Information Services
+[🏠︎](README.md) ❭ Applications > Internet Information Services
+
+<sub>Last updated: 260603/sub>
