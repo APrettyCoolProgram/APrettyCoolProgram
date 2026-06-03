@@ -1,4 +1,4 @@
-﻿[🏠︎](README.md) ❭ Applications > AutoHotkey
+[🏠︎](README.md) ❭ Miscellaneous > Desktop Wallpaper
 
 <div align="center">
 
@@ -10,19 +10,17 @@
     <img alt="Fallback image description" src="../../../.github/repository/logo/apcp-logo-light-256x256.png">
   </picture>
 
-# AutoHotkey
+![](GetCoffeeAndWriteCode-Grey.png)
+![](GetCoffeeAndWriteCode-Red.png)
+![](KeepCalmAndKeepCoding.jpg)
+![](KeepCalmAndRewriteYourEntireCodebase.png)
+![](ProgrammerCoffeeCode.jpg)
 
-</div>
-
-AutoHotkey is a free, open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks such as: form fillers, auto-clicking, macros, etc.
-
-* [AutoHotkey.com](https://www.autohotkey.com)
-* [AutoHotkey dotfile](AutoHotKey.ahk)
 
 <br/>
 
 ***
 
-[🏠︎](README.md) ❭ Applications > AutoHotkey
+[🏠︎](README.md) ❭ Miscellaneous > Desktop Wallpaper
 
 <sub>Last updated: 260603</sub>

@@ -120,4 +120,4 @@ Make sure the required buckets are added::
 
 [🏠︎](README.md) ❭ Applications > Scoop
 
-<sub>Last updated: 260603/sub>
+<sub>Last updated: 260603</sub>

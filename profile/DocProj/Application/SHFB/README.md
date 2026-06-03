@@ -181,4 +181,4 @@ A few minutes after the `myproject` repository has been updated, the GitHub Page
 
 [🏠︎](README.md) ❭ Applications > Sandcastle Help File Builder
 
-<sub>Last updated: 260603/sub>
+<sub>Last updated: 260603</sub>

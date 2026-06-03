@@ -154,7 +154,8 @@ See the [C#](#c) section.
 
 ## ClaudiaIDE
 
-Set this up as needed.
+![](./Claudia/ItsOk-1200x1200.png)
+![](./Claudia/TheDude-799x706.png)
 
 ### Pretty Doc Comments
 
@@ -207,7 +208,6 @@ The task list should be:
 * DEVNOTE
 * REVIEW
 
-
 ## Publishing
 
 How to publish as a single file:
@@ -258,4 +258,4 @@ https://learn.microsoft.com/en-us/dotnet/core/deploying/
 
 [🏠︎](README.md) ❭ Applications > Visual Studio 2026
 
-<sub>Last updated: 260603/sub>
+<sub>Last updated: 260603</sub>

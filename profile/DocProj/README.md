@@ -26,20 +26,20 @@
 <details>
 <summary>Artificial Intelligence</summary>
 
-| Topic                       |   |
-|-----------------------------|---|
-| [AGENT files](#agent-files) | Open format for guiding coding agents |
+| Topic                                     |                                       |
+|-------------------------------------------|---------------------------------------|
+| [AGENT files](./AI/README.md#agent-files) | Open format for guiding coding agents |
 
 </details>
 
 <details>
 <summary>Documentation</summary>
 
-| Topic                                      |                                                                            |
-|:-------------------------------------------|----------------------------------------------------------------------------|
-| [Markdown](#markdown.md)                   | Text-to-HTML conversion tool for web writers                               |
-| [Mermaid](#mermaid.md)                     | JavaScript-based diagramming and charting tool                             |
-| [XML Documentation](#xml-documentation.md) | Document code elements that can be processed to generate API documentation |
+| Topic                                                  |                                                                            |
+|:-------------------------------------------------------|----------------------------------------------------------------------------|
+| [Markdown](documentation/Markdown.md)                  | Text-to-HTML conversion tool for web writers                               |
+| [Mermaid](documentation/Mermaid.md)                    | JavaScript-based diagramming and charting tool                             |
+| [XML Documentation](documentation/XmlDocumentation.md) | Document code elements that can be processed to generate API documentation |
 
 </details>
 
