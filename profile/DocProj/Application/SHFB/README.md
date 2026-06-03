@@ -1,8 +1,4 @@
-<!-- 260505 -->
-
-[The Documentation Project](../README.md) ❭ Application ❭ Sandcastle Help File Builder
-
-***
+[🏠︎](README.md) ❭ Applications > Sandcastle Help File Builder
 
 <div align="center">
 
@@ -18,19 +14,13 @@
 
 </div>
 
-# Installing and setting up Sandcastle Help File Builder
-
-* [Integration with Visual Studio](#integration-with-visual-studio)
-* [Create a new Visual Studio Documentation Project](#create-a-new-visual-studio-documentation-project)
-* [Generating Sandcastle documentation](#generating-sandcastle-documentation)
-
-# Integration with Visual Studio
+## Integration with Visual Studio
 
 Install the latest version of the [Sandcastle Help File Builder](https://github.com/EWSoftware/SHFB).
 
 It is recommended to also install the [Extended XML Doc Comments Provider (VS2022+)](https://marketplace.visualstudio.com/items?itemName=EWoodruff.ExtendedDocCommentsProvider2022) extension.
 
-# Create a new Visual Studio Documentation Project
+## Create a new Visual Studio Documentation Project
 
 You will need to create a Documentation Project for each project you want to document.
 
@@ -49,13 +39,13 @@ To create the new project:
 5. Click "Create"
 6. Close the project
 
-## Add the documentation project to the solution
+### Add the documentation project to the solution
 
 1. Open the *solution* that the documentation will be created for
 2. Add a new Solution Folder named `SHFB`
 3. Add the documentation project to the `SHFB` folder
 
-## Generate XML documentation
+### Generate XML documentation
 
 In the project you are creating documentation for:
 
@@ -64,15 +54,15 @@ In the project you are creating documentation for:
 3. Check **XML documentation file**
 4. Change the file path to `AppData\XmlDoc\generated.xml
 
-## Configure the documentation project
+### Configure the documentation project
 
-### Project Properties -> Build
+#### Project Properties -> Build
 
 1. Change **Framework version** to the correct framework
 
 ![](./shfb/build.png)
 
-### Project Properties -> Help File
+#### Project Properties -> Help File
 
 1. Change the **Help title**
 2. Change the ** Help file version**
@@ -87,19 +77,19 @@ Please see the <a href="https://github.com/spectrum-health-systems/myproject">My
 
 (Ignore what the fields in this screenshot say, they will eventually be updated)
 
-### Project Properties -> Help 1/Website
+#### Project Properties -> Help 1/Website
 
 No changes.
 
-### Project Properties -> MS Help Viewer
+#### Project Properties -> MS Help Viewer
 
 No changes.
 
-### Project Properties -> Summaries
+#### Project Properties -> Summaries
 
 No changes.
 
-### Project Properties -> Visibility
+#### Project Properties -> Visibility
 
 1. Check **Internal members**
 2. Check **Private fields**
@@ -107,11 +97,11 @@ No changes.
 
 ![](visibility.png)
 
-### Project Properties -> Missing Tags
+#### Project Properties -> Missing Tags
 
 No changes.
 
-### Project Properties -> Paths
+#### Project Properties -> Paths
 
 1. Change **Help content output path** to `..\..\docs\API\%Project-Name`
 
@@ -119,27 +109,27 @@ No changes.
 
 (Ignore what the fields in this screenshot say, they will eventually be updated)
 
-### Project Properties -> Components
+#### Project Properties -> Components
 
 No changes.
 
-### Project Properties -> Plug-Ins
+#### Project Properties -> Plug-Ins
 
 No changes.
 
-### Project Properties -> Transform Args
+#### Project Properties -> Transform Args
 
 No changes.
 
-### Project Properties -> User Defined
+#### Project Properties -> User Defined
 
 No changes.
 
-### Project Properties -> Build Events
+#### Project Properties -> Build Events
 
 No changes.
 
-## Add the project to the Documentation Sources
+### Add the project to the Documentation Sources
 
 Using the documentation project:
 
@@ -147,7 +137,7 @@ Using the documentation project:
 2. **Add documentation source**
 3. Add the `.shfbproj` file
 
-## Exclude documentation projects from the Solution build
+### Exclude documentation projects from the Solution build
 
 On the VS2022 menu bar:
 
@@ -156,7 +146,7 @@ On the VS2022 menu bar:
 
 Save everything
 
-# Generating Sandcastle documentation
+## Generating Sandcastle documentation
 
 <div align="center">
 
@@ -181,10 +171,14 @@ flowchart TB
 
 </div>
 
-## GitHub Pages
+### GitHub Pages
 
 A few minutes after the `myproject` repository has been updated, the GitHub Pages site will be refreshed.
 
+<br/>
+
 ***
 
-[The Documentation Project](../README.md) ❭ Application ❭ Sandcastle Help File Builder
+[🏠︎](README.md) ❭ Applications > Sandcastle Help File Builder
+
+<sub>Last updated: 260603/sub>

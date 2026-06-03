@@ -1,8 +1,8 @@
-<!-- 260505 -->
+[🏠︎](README.md) ❭ Applications > Scoop
 
-[The Documentation Project](../README.md) ❭ Scoop ❭ Scoop Overview
-
-***
+<!--
+This documentation is not currently used/displayed.
+--->
 
 ### The Documentation Project
 
@@ -114,6 +114,10 @@ Make sure the required buckets are added::
 
 <br>
 
+<br/>
+
 ***
 
-[The Documentation Project](../README.md) ❭ Scoop ❭ Scoop Overview
+[🏠︎](README.md) ❭ Applications > Scoop
+
+<sub>Last updated: 260603/sub>
