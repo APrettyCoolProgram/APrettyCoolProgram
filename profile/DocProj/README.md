@@ -38,7 +38,7 @@
 <summary>Documentation</summary>
 
 | Topic                                      |                                                                             |
-|--------------------------------------------|-----------------------------------------------------------------------------|
+|:-------------------------------------------|-----------------------------------------------------------------------------|
 | [Markdown](#markdown.md)                   | Text-to-HTML conversion tool for web writers                                |
 | [Mermaid](#mermaid.md)                     | JavaScript-based diagramming and charting tool                              |
 | [XML Documentation](#xml-documentation.md) | Document code elements that can be processed to generate API documentation. |
@@ -49,14 +49,14 @@
 <summary>GitHub</summary>
 
 | Topic                                       |   |
-|---------------------------------------------|---|
+|:--------------------------------------------|---|
 | [Repository template](#repository-template) |   |
 
 <details>
 <summary>Miscellaneous</summary>
 
 | Topic                                     |   |
-|-------------------------------------------|---|
+|:------------------------------------------|---|
 | [Desktop wallpapers](#desktop-wallpapers) |   |
 
 </details>
@@ -65,7 +65,7 @@
 <summary>Windows Subsystem for Linux (WSL)</summary>
 
 | Topic                                                                 |   |
-|-----------------------------------------------------------------------|---|
+|:----------------------------------------------------------------------|---|
 | [Windows Subsystem for Linux (WSL)](#windows-subsystem-for-linux-wsl) |   |
 
 </details>
