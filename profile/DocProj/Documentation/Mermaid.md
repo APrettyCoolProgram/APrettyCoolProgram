@@ -1,8 +1,4 @@
-<!-- 260402 -->
-
-[The Documentation Project](../README.md) ❭ Documentation ❭ Mermaid
-
-***
+[🏠︎](README.md) ❭ Documentation > Mermaid
 
 <div align="center">
 
@@ -18,31 +14,13 @@
 
 </div>
 
-<!-- 
-  Table of contents.
-
-  These are things that aren't/don't belong in the Menu.
-  
-  The HTML indentations have to stay this way to work.
--->
-
-<table>
-<tr>
-<td  img src=".github/repository/readme/spacer.png" alt="blank-spacer" width="1000" height="1">
-
-  ### CONTENTS
-  [Overview](#overview)<br>
-  [Colors](#colors)<br>
-  [Fonts](#fonts)<br>
-  [Links](#links)<br>
-  [Nodes](#nodes)<br>
-  [Shapes and workflows](#shapes-and-workflows)<br>
-
-</td>
-</tr>
-</table>
-
-# Overview
+| CONTENTS                                      |
+|:----------------------------------------------|
+| [Colors](#colors)                             |
+| [Fonts](#fonts)                               |
+| [Links](#links)                               |
+| [Nodes](#nodes)                               |
+| [Shapes and workflows](#shapes-and-workflows) |
 
 [Mermaid.js](https://mermaid.js.org/) is a JavaScript-based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
 
@@ -673,8 +651,10 @@ flowchart LR
     classDef default fill:#000, stroke:#FFF, stroke-width:1px
 ```
 
-<br>
+<br/>
 
 ***
 
-[The Documentation Project](../README.md) ❭ Documentation ❭ Mermaid
+[🏠︎](README.md) ❭ Documentation > Mermaid
+
+<sub>Last updated: 260603</sub>

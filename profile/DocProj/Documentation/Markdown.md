@@ -1,8 +1,4 @@
-<!-- 260402 -->
-
-[The Documentation Project](../README.md) ❭ Documentation ❭ Markdown
-
-***
+[🏠︎](README.md) ❭ Documentation > Markdown
 
 <div align="center">
 
@@ -24,8 +20,10 @@
 * [About writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
 * [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-<br>
+<br/>
 
 ***
 
-[The Documentation Project](../README.md) ❭ Documentation ❭ Markdown
+[🏠︎](README.md) ❭ Documentation > Markdown
+
+<sub>Last updated: 260603</sub>

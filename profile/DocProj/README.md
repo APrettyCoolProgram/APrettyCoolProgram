@@ -50,6 +50,8 @@
 |:--------------------------------------------|---|
 | [Repository template](#repository-template) |   |
 
+</details>
+
 <details>
 <summary>Miscellaneous</summary>
 
