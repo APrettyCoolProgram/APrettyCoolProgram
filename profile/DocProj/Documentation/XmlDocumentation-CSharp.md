@@ -243,8 +243,8 @@ For inheritors.
 
 ### What they look like
 
-![01](./Resources/XmlDocumentation-01.png)
-![02](./Resources/XmlDocumentation-02.png)
+![01](./Resources/XmlDocumentation-CSharp-01.png)
+![02](./Resources/XmlDocumentation-CSharp-02.png)
 
 ## Example of well-formed XML documentation
 
