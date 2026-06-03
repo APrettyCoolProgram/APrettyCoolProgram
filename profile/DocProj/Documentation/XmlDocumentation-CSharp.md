@@ -162,14 +162,12 @@ Bulleted lists should follow these guidelines:
 - Proper indenting should be used
 
 ```xml
-<para>
-    An introduction:
-    <list type="bullet">
-      <item>Bullet 1</item>
-      <item>Bullet 1</item>
-      <item>Bullet 1</item>
-    </list>
-</para>
+An introduction:
+<list type="bullet">
+<item>Bullet 1</item>
+<item>Bullet 1</item>
+<item>Bullet 1</item>
+</list>
 ```
 
 ### Numbered list
@@ -187,21 +185,21 @@ Tables should follow these guidelines:
 
 ```xml
 <para>
-    An introduction:
-    <list type="table">
-        <listheader>
-            <term>Term header</term>
-            <description>Description header</description>
-        </listheader>
-        <item>
-            <term>Term 1</term>
-            <description>Description 1</description>
-        </item>
-        <item>
-            <term>Term 2</term>
-            <description>Description 3</description>
-        </item>
-    </list>
+An introduction:
+<list type="table">
+<listheader>
+<term>Term header</term>
+<description>Description header</description>
+</listheader>
+<item>
+<term>Term 1</term>
+<description>Description 1</description>
+</item>
+<item>
+<term>Term 2</term>
+<description>Description 3</description>
+</item>
+</list>
 </para>
 ```
 
@@ -210,63 +208,43 @@ Tables should follow these guidelines:
 Callouts are a type of note that can be included in XML documentation to provide additional information, warnings, tips, or other contextual details. They are typically used to highlight important points or provide extra guidance to developers who are reading the documentation.
 
 ```xml
-<para>
-    <note>
-        This example demonstrates the handling of a <c>note</c> element with no
-        defined type. It defaults to the "note" style.
-    </note>
-</para>
-<para>
-    <note type="tip">
-        A <c>tip> callout</c>.
-    </note>
-</para>
-<para>
-    <note type="tip" title="Custom title">
-        A <c>tip> callout</c> with a custom title.
-    </note>
-</para>
-<para>
-    <note type="caution">
-        A <c>caution</c> callout.
-    </note>
-</para>
-<para>
-    <note type="important">
-        An <c>important</c> callout.
-    </note>
-</para>
-<para>
-    <note type="security">
-        A <c>security</c> callout.
-    </note>
-</para>
-<para>
-    <note type="C#">
-        A <c>C#</c> callout.
-    </note>
-</para>
-<para>
-    <note type="implement">
-        For implementers.
-    </note>
-</para>
-<para>
-        <note type="caller">
-        For callers.
-        </note>
-</para>
-<para>
-    <note type="inherit">
-        For inheritors.
-    </note>
-</para>
+<note>
+This example demonstrates the handling of a <c>note</c> element with no
+defined type. It defaults to the "note" style.
+</note>
+<note type="tip">
+A <c>tip</c> callout.
+</note>
+<note type="tip" title="Custom title">
+A <c>tip</c> callout with a custom title.
+</note>
+<note type="caution">
+A <c>caution</c> callout.
+</note>
+<note type="important">
+An <c>important</c> callout.
+</note>
+<note type="security">
+A <c>security</c> callout.
+</note>
+<note type="C#">
+A <c>C#</c> callout.
+</note>
+<note type="implement">
+For implementers.
+</note>
+<note type="caller">
+For callers.
+</note>
+<note type="inherit">
+For inheritors.
+</note>
 ```
 
 ### What they look like
 
-![01](./XmlDocumentation_resource/XmlDocumentation-01.png)
-![02](./XmlDocumentation_resource/XmlDocumentation-02.png)
+![01](./Resources/XmlDocumentation-01.png)
+![02](./Resources/XmlDocumentation-02.png)
 
 ## Example of well-formed XML documentation
 
