@@ -1,8 +1,4 @@
-<!-- 260402 -->
-
-[The Documentation Project](../README.md) ❭ Documentation ❭ XML Documentation
-
-***
+[🏠︎](../README.md) ❭ [Documentation](README.md) > XML Documentation
 
 <div align="center">
 
@@ -14,33 +10,42 @@
     <img alt="Fallback image description" src="../.github/Repository/Logo/apcp-logo-light-256x256.png">
   </picture>
 
-# XML Documentation
+# C# XML Documentation
 
 </div>
 
-<!-- 
-  Table of contents.
-
-  These are things that aren't/don't belong in the Menu.
-  
-  The HTML indentations have to stay this way to work.
--->
-
-<table>
-<tr>
-<td  img src=".github/repository/readme/spacer.png" alt="blank-spacer" width="1000" height="1">
-
 | CONTENTS                                                        |
-|-----------------------------------------------------------------|
-| [Guidelines](#guidelines)   |
-| [Source code comments](#source-code-xml-documentation) |
-| [External comments](#external-xml-documentation)       |
-| [Formatting](#xml-documentation-formatting)   |
-| [Callouts](#callouts)        
-| [Examples](#examples)       |                       
-| [XML documentation example](#xml-documentation-example)         |
+|:----------------------------------------------------------------|
+| [Source code documentation](#source-code-documentation) |
+| [External documentation](#external-documentation)       |
+| [Formatting](#formatting)   |
+| [Callouts](#callouts)             |                       
+| [Example](#xml-documentation-example)         |
+
+---
+
+C# source files can include structured comments that produce API documentation for the types defined in those files. The C# compiler produces an XML file that contains structured data representing the comments and the API signatures. Other tools can process that XML output to create human-readable documentation in the form of web pages or PDF files, for example.
+
+The C# language reference documents the most recently released version of the C# language. It also contains initial documentation for features in public previews for the upcoming language release.
+
+### The `xml-documentation-agent.md` files
+
+The majority of these guidelines are implemented in the following `xml-documentation-agent.md` files:
+
+* C#: [`xml-documentation-csharp-agent.md`](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/.github/agents/xml-documentation-csharp-agent.md)
+
+Projects should
+
+### Additional information
+
+Please review Microsoft's official documentation for C# XML documentation for additional information:
+
+* [Generate XML API documentation comments](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/xmldoc/)
+* [Recommended tags for C# documentation comments](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/xmldoc/recommended-tags)
+* [Examples](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/xmldoc/examples)
 
 
+<!-->
   ### CONTENTS
 - [XML documentation guidelines](#xml-documentation-guidelines)
   - [Classes](#classes)
@@ -67,10 +72,12 @@
 </td>
 </tr>
 </table>
+-->
 
-# Guidelines
+## Soruce Code documentation
 
-Projects should use both ***source code*** and ***external*** XML documentation.
+
+
 
 # Source code documentation
 
@@ -744,4 +751,6 @@ This example of an XML documentation comment details the correct tag order:
 
 ***
 
-[The Documentation Project](../README.md) ❭ Documentation ❭ XML Documentation
+[🏠︎](../README.md) ❭ [Documentation](README.md) > XML Documentation
+
+<sub>Last updated: 2024-10-31</sub>
