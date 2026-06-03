@@ -203,6 +203,37 @@ An introduction:
 </para>
 ```
 
+## Documenting namespaces
+
+Namespaces cannot be documented using XML documentation comments, at least not directly.
+
+Instead, you'll need to follow the instructions in the Sandcastle documentation: [Using NamespaceDoc and NamespaceGroupDoc Classes](https://ewsoftware.github.io/SHFB/html/48f5a893-acde-4e50-8c17-72b83d9c3f9d.html), which are as follows:
+
+1. Create a new class named `NamespaceDoc` in the namespace you want to document
+2. Add the following code to the class:
+
+```csharp
+// This class is used buy Sandcastle to provide namespace-level documentation
+// for ns:%Namespace%.
+//
+// More information about this functionality can be found here:
+// 
+// Sandcastle Help File Builder Documentation
+// Using NamespaceDoc and NamespaceGroupDoc Classes
+// https://ewsoftware.github.io/SHFB/html/48f5a893-acde-4e50-8c17-72b83d9c3f9d.htm
+
+namespace %Namespace%
+{
+    /// <summary>Namespace documentation for %Namespace%.</summary>
+    [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+    class NamespaceDoc
+    {
+    }
+}
+```
+
+Sandcastle does not support documenting namespaces using XML documentation comments in source code. Instead, namespaces should be documented using external XML documentation files.
+
 ## Callouts
 
 Callouts are a type of note that can be included in XML documentation to provide additional information, warnings, tips, or other contextual details. They are typically used to highlight important points or provide extra guidance to developers who are reading the documentation.

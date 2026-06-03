@@ -14,6 +14,14 @@
 
 </div>
 
+| CONTENTS |
+|:--------|
+| [Integration with Visual Studio](#integration-with-visual-studio) |
+| [Create a new Visual Studio Documentation Project](#create-a-new-visual-studio-documentation-project) |
+| [Generating Sandcastle documentation](#generating-sandcastle-documentation) |
+
+---
+
 ## Integration with Visual Studio
 
 Install the latest version of the [Sandcastle Help File Builder](https://github.com/EWSoftware/SHFB).
@@ -145,6 +153,10 @@ On the VS2022 menu bar:
 2. Uncheck *Build* for all documentation projects
 
 Save everything
+
+## XML Documentation
+
+You'll need to add [XML documentation](../../Documentation/XmlDocumentation-CSharp.md) to the code elements you want to be included in the generated API documentation.
 
 ## Generating Sandcastle documentation
 
