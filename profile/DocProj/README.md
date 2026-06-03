@@ -10,9 +10,24 @@
 
 </div>
 
-<!--
-|:----------------------------------------|:----------------------------------------|
--->
+<!-- Guide
+|:----------------------------------------|:----------------------------------------| -->
+| CONTENTS                                  |                                         |
+|:------------------------------------------|:----------------------------------------|
+| Applications                              | Visual Studio                           |
+| [AutoHotkey](#autohotkey)                 |  |
+| [Internet Information Services](#internet-information-services)   | |
+| [Visual Studio 2026](#visual-studio-2026) |  |
+| [Visual Studio Code](#visual-studio-code) |  |
+
+| [Mermaid](#mermaid.md)     | |
+| [XML Documentation](#xml-documentation.md) | |
+| [Dotfiles](#dotfiles)             |
+| [Projects](#projects)             |
+| [Repositories](#repositories)     |
+| [Scoop](#scoop)                   |
+| [Windows Subsystem for Linux (WSL)](#windows-subsystem-for-linux-wsl) |
+| [Miscellaneous](#miscellaneous)   |
 
 | CONTENTS                                |                                         |
 |:----------------------------------------|:----------------------------------------|
