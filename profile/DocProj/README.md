@@ -1,5 +1,3 @@
-<!-- 260330 -->
-
 <div align="center">
 
   <picture>
@@ -14,7 +12,7 @@
 
 | CONTENTS                                                        |
 |:----------------------------------------------------------------|
-| [AI](#ai) |
+| [Artificial Intelligence](#ai) |
 | [Applications](#applications)       |
 | [Backgrounds](#backgrounds)   |
 | [Documentation guidelines](#documentation-guidelines) |
@@ -30,21 +28,25 @@ The APCP Documentation Project is a collection of documentation files for variou
 
 The project is organized into different sections, each containing relevant documentation for specific subjects.
 
-## AI
+## Applications
+
+### Visual Studio
+
+  - [Publishing Projects](apps/vs/2026/publish/README.md)
+  - [Setup](apps/vs/2026/setup/README.md)
+
+### Other applications
+
+- [Installing Microsoft's Internet Information Services](./Application/InternetInformationServer/README.md)
+- [Sandcastle Help File Builder](./SandcastleHelpFileBuilder/README.md)
+
+## Artificial Intelligence
 
 ### Agent files
 
 - [AGENT.md](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/AGENTS.md)
 - [C# XML Documentation Agent](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/.github/agents/xml-documentation-csharp-agent.md)
 
-## Applications
-
-- [Internet Information Services](apps/iis/README.md)
-- [Sandcastle Help File Builder](apps/shfb/README.md)
-- [Scoop](apps/scoop/README.md)
-- Visual Studio 2026  
-  - [Publishing Projects](apps/vs/2026/publish/README.md)
-  - [Setup](apps/vs/2026/setup/README.md)
 
 ## Backgrounds
 
@@ -75,6 +77,8 @@ The project is organized into different sections, each containing relevant docum
 - Repository README: [collections](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/Collection-README.md) / [source code](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/SourceCode-README.md)
 
 ## Scoop
+
+- [Scoop](./Scoop/README.md)
 
 ## Windows Subsystem for Linux (WSL)
 
