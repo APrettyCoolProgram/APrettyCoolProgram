@@ -10,15 +10,18 @@
 
 </div>
 
-| CONTENTS                                                        |
-|:----------------------------------------------------------------|
-| Artificial Intelligence |
-| &nbsp;&nbsp;&nbsp;&nbsp;[AGENT files](#agent-files)|
-| Applications       |
-| &nbsp;&nbsp;&nbsp;&nbsp;[Visual Studio 2026](#visual-studio)|
-| &nbsp;&nbsp;&nbsp;&nbsp;[Visual Studio Code](#visual-studio)|
-| &nbsp;&nbsp;&nbsp;&nbsp;[Other applications](#other-applications)|
-| [Documentation guidelines](#documentation-guidelines) |
+<!--
+|:----------------------------------------|:----------------------------------------|
+-->
+
+| CONTENTS                                |                                         |
+|:----------------------------------------|:----------------------------------------|
+| Artificial Intelligence                 | Visual Studio                           |
+| [AGENT files](#agent-files)             | [Visual Studio 2026](#visual-studio-2026) |
+| Documentation                           | [Visual Studio 2026](#visual-studio-code) |
+| [Markdown](#markdown.md)   | |
+| [Mermaid](#mermaid.md)     | |
+| [XML Documentation](#xml-documentation.md) | |
 | [Dotfiles](#dotfiles)             |
 | [Projects](#projects)             |
 | [Repositories](#repositories)     |
@@ -27,7 +30,7 @@
 | [Miscellaneous](#miscellaneous)   |
 
 
-| CONTENTS                                                        |    |
+| TOPIC                                                      | SUBTOPIC   |
 |:----------------------------------------------------------------| --- |
 | **Artificial Intelligence** | [AGENT files](#agent-files) |
 | Applications | [Visual Studio 2026](#visual-studio) - [Visual Studio Code](#visual-studio) - [Other applications](#other-applications) |
