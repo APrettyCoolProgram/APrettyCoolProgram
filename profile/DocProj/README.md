@@ -8,6 +8,10 @@
 
   <h1>The APCP Documentation Project</h1>
 
+
+
+
+
 <!--               A-H                    |                    I-P                  |                    Q-Z               -->
 |                                           |                  TOPICS                    |                                         |
 |:------------------------------------------|:-------------------------------------------|:----------------------------------------|
@@ -24,6 +28,23 @@
 </div>
 
 ---
+
+<details>
+<summary>Artificial Intelligence</summary>
+<p>This is additional information that can be toggled open or closed.</p>
+</details>
+
+<details>
+<summary>Documentation</summary>
+
+|                                            |    |
+| ------------------------------------------ | ---|
+| [Markdown](#markdown.md)                   | Text-to-HTML conversion tool for web writers |
+| [Mermaid](#mermaid.md)                     | JavaScript-based diagramming and charting tool |
+| [XML Documentation](#xml-documentation.md) | Document code elements that can be processed to generate API documentation. |
+
+</details>
+
 
 | [Mermaid](#mermaid.md)     | |
 | [XML Documentation](#xml-documentation.md) | |
