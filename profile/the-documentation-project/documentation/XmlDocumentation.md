@@ -30,6 +30,17 @@
 <tr>
 <td  img src=".github/repository/readme/spacer.png" alt="blank-spacer" width="1000" height="1">
 
+| CONTENTS                                                        |
+|-----------------------------------------------------------------|
+| [Guidelines](#guidelines)   |
+| [Source code comments](#source-code-xml-documentation) |
+| [External comments](#external-xml-documentation)       |
+| [Formatting](#xml-documentation-formatting)   |
+| [Callouts](#callouts)        
+| [Examples](#examples)       |                       
+| [XML documentation example](#xml-documentation-example)         |
+
+
   ### CONTENTS
 - [XML documentation guidelines](#xml-documentation-guidelines)
   - [Classes](#classes)
@@ -57,11 +68,11 @@
 </tr>
 </table>
 
-# XML documentation guidelines
+# Guidelines
 
 Projects should use both ***source code*** and ***external*** XML documentation.
 
-## Source code XML documentation
+# Source code documentation
 
 Source code XML documentation should provide all *required* information about a component.
 
@@ -76,7 +87,7 @@ The following XML documentation tags should **always** be in the source code, si
 
 The `<remarks>` tag **can be** in the source code, as long as they follow the [source code documentation structure](#source-code-documentation-structure).
 
-## External XML documentation
+## External documentation files
 
 External XML documentation should provide *non-essential but helpful* detailed information, examples, and other resources for a component.
 
@@ -657,7 +668,7 @@ See <see cref="GetVersion()"/> to add doubles.
 ![01](./XmlDocumentation_resource/XmlDocumentation-01.png)
 ![02](./XmlDocumentation_resource/XmlDocumentation-02.png)
 
-# Complete XML documentation example
+# XML documentation example
 
 This example of an XML documentation comment details the correct tag order:
 
