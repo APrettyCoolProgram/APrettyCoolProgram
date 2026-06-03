@@ -14,12 +14,16 @@
 
 </div>
 
-| CONTENTS                                                        |
-|:----------------------------------------------------------------|
-| [Guidelines](#guidelines)                                       |
-| [External documentation](#external-documentation)       ||
-| [Callouts](#callouts)             |                       
-| [Additional information](#additional-information)         |
+| CONTENTS                                                                              |
+|:--------------------------------------------------------------------------------------|
+| [Guidelines](#guidelines)                                                             |
+| [Documentation Tags](#documentation-tags)                                             |
+| [Text formatting](#text-formatting)                                                   |
+| [Callouts](#callouts)                                                                 |
+| [Example of well-formed XML documentation](#example-of-well-formed-xml-documentation) |
+| [External documentation](#external-documentation)                                     |
+| [Example of external XML documentation](#example-of-external-xml-documentation)       |
+| [Additional information](#additional-information)                                     |
 
 ---
 
@@ -27,48 +31,91 @@ C# source files can include structured comments that produce API documentation f
 
 The C# language reference documents the most recently released version of the C# language. It also contains initial documentation for features in public previews for the upcoming language release.
 
+---
+
 ## Guidelines
 
 > [!NOTE]
 > The majority of these guidelines are implemented in the [`xml-documentation-agent.md`](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/.github/agents/xml-documentation-csharp-agent.md) file.
 
+### Required
+
 All XML documentation must:
 
-- Be well-formed XML.
-- Escape special XML characters such as `<`, `>`, and `&` when needed.
-- Keep each line at or below 120 characters where practical.
-- Use concise wording and avoid repeating the member name unnecessarily.
+- Be well-formed XML
+- Not exceed 120 characters (where practical)
+- Use concise wording
 
-Document these members when they are missing XML documentation:
+### What to document
 
-- types
-- constructors
-- methods
-- properties
-- indexers
-- fields, when explicitly requested or when they are part of the documented API
+These members must be documented:
+
+- `types`
+- `constructors`
+- `methods`
+- `properties`
+- `indexers`
+- `fields` (when explicitly requested or when they are part of the documented API)
+
+### Event Handlers
+
+Skip documentation for methods that are clearly event handlers or UI callbacks, including methods that:
+
+- match common event-handler signatures such as `(object? sender, EventArgs e)`
+- are wired directly to UI events
+- are clearly intended only as framework callbacks
+
+Do not skip a method solely because its name starts with `On`.
+
+## Documentation Tags
+
+### Rules
+
+- Every documented type and member must have a `<summary>` tag.
+- Every documented method and constructor parameter must have a matching `<param>` tag.
+- Every documented generic type or method must document each type parameter with `<typeparam>`.
+- Every documented non-`void` method must have a `<returns>` tag.
+- Properties and indexers should include a `<value>` tag when it adds useful meaning.
+- Use `<remarks>` only when extra context is useful.
+- Use `<example>` only when the member would clearly benefit from a usage example.
+- Use `<exception>` only for exceptions explicitly thrown by the member implementation.
 
 ### Formatting
 
-#### Text Formatting
+- Place opening and closing tags on separate lines for multi-line blocks.
+- Break lines at logical sentence boundaries.
+- Prefer `<br/>` over `<para>` when a simple line break is needed.
+- Indent `<code>` contents for readability, but do not otherwise change file formatting.
 
-XML documentation comments can using the following formatting tags:
+### Single-line
 
-- `<b>bold</b>`
-- `<i>italic</i>`
-- `<u>underline</u>`
+Prefer single-line form for these tags unless the content clearly requires multiple lines:
 
-#### Special Characters
+- `<summary>`
+- `<typeparam>`
+- `<param>`
+- `<returns>`
+- `<value>`
 
-XML documentation can include the following special characters:
+### Multi-line
 
-- Greater than: `&gt;`
-- Lesser than: `&lt;`
-- Space: `&nbsp;`
+Use multi-line blocks for these tags when present:
 
-### Documentation Tags
+- `<remarks>`
+- `<example>`
+- `<exception>`
 
-#### Top-level tag order
+### Inline
+
+Use these inline tags where appropriate:
+
+- `<c>` for inline code
+- `<see cref="..."/>` for symbols in the current compilation
+- `<see href="...">...</see>` for external links
+- `<paramref name="..."/>` for parameter references
+- `<typeparamref name="..."/>` for generic type parameter references
+
+### Order
 
 When a tag is used, apply this order:
 
@@ -82,61 +129,26 @@ When a tag is used, apply this order:
 8. `<exception>`
 9. `<seealso>`
 
-#### Inline tags
+## Text formatting
 
-Use these inline tags where appropriate:
+### Emphasis
 
-- `<c>` for inline code
-- `<see cref="..."/>` for symbols in the current compilation
-- `<see href="...">...</see>` for external links
-- `<paramref name="..."/>` for parameter references
-- `<typeparamref name="..."/>` for generic type parameter references
+XML documentation can using the following HTML formatting tags to emphasize text:
 
-#### Single-line tags
+- `<b>bold</b>`
+- `<i>italic</i>`
+- `<u>underline</u>`
 
-Prefer single-line form for these tags unless the content clearly requires multiple lines:
+### Special characters
 
-- `<summary>`
-- `<typeparam>`
-- `<param>`
-- `<returns>`
-- `<value>`
+Special XML characters must be escaped using the following escape sequences:
 
-#### Multi-line tags
-
-Use multi-line blocks for these tags when present:
-
-- `<remarks>`
-- `<example>`
-- `<exception>`
-
-#### Additional formatting guidance
-
-- Place opening and closing tags on separate lines for multi-line blocks.
-- Break lines at logical sentence boundaries.
-- Prefer `<br/>` over `<para>` when a simple line break is needed.
-- Indent `<code>` contents for readability, but do not otherwise change file formatting.
-
-### Tag Rules
-
-- Every documented type and member must have a `<summary>` tag.
-- Every documented method and constructor parameter must have a matching `<param>` tag.
-- Every documented generic type or method must document each type parameter with `<typeparam>`.
-- Every documented non-`void` method must have a `<returns>` tag.
-- Properties and indexers should include a `<value>` tag when it adds useful meaning.
-- Use `<remarks>` only when extra context is useful.
-- Use `<example>` only when the member would clearly benefit from a usage example.
-- Use `<exception>` only for exceptions explicitly thrown by the member implementation.
-
-#### Event Handler Rule
-
-Skip documentation for methods that are clearly event handlers or UI callbacks, including methods that:
-
-- match common event-handler signatures such as `(object? sender, EventArgs e)`
-- are wired directly to UI events
-- are clearly intended only as framework callbacks
-
-Do not skip a method solely because its name starts with `On`.
+| Character | Escape Sequence |
+|-----------|-----------------|
+| `<`       | `&lt;`          |
+| `>`       | `&gt;`          |
+| `&`       | `&amp;`         |
+| space     | `&nbsp;`        |
 
 ### Lists
 
@@ -193,18 +205,70 @@ Tables should follow these guidelines:
 </para>
 ```
 
+## Callouts
 
+Callouts are a type of note that can be included in XML documentation to provide additional information, warnings, tips, or other contextual details. They are typically used to highlight important points or provide extra guidance to developers who are reading the documentation.
 
+```xml
+<para>
+    <note>
+        This example demonstrates the handling of a <c>note</c> element with no
+        defined type. It defaults to the "note" style.
+    </note>
+</para>
+<para>
+    <note type="tip">
+        A <c>tip> callout</c>.
+    </note>
+</para>
+<para>
+    <note type="tip" title="Custom title">
+        A <c>tip> callout</c> with a custom title.
+    </note>
+</para>
+<para>
+    <note type="caution">
+        A <c>caution</c> callout.
+    </note>
+</para>
+<para>
+    <note type="important">
+        An <c>important</c> callout.
+    </note>
+</para>
+<para>
+    <note type="security">
+        A <c>security</c> callout.
+    </note>
+</para>
+<para>
+    <note type="C#">
+        A <c>C#</c> callout.
+    </note>
+</para>
+<para>
+    <note type="implement">
+        For implementers.
+    </note>
+</para>
+<para>
+        <note type="caller">
+        For callers.
+        </note>
+</para>
+<para>
+    <note type="inherit">
+        For inheritors.
+    </note>
+</para>
+```
 
+### What they look like
 
+![01](./XmlDocumentation_resource/XmlDocumentation-01.png)
+![02](./XmlDocumentation_resource/XmlDocumentation-02.png)
 
-
-
-
-
-
-
-### Example
+## Example of well-formed XML documentation
 
 This is an example of well-formed XML documentation comments for a method:
 
@@ -263,7 +327,7 @@ You can reference external XML documentation files using the `<include>` tag ::
 /// <include file='XmlDoc/%Namespace%.%ClassName%_doc.xml' path='%Namespace%/Method[@name="Method"]/%MethodName%/*'/>
 ```
 
-### Example
+## Example of external XML documentation
 
 External Class XML documentation should look like this:
 
@@ -341,69 +405,6 @@ OR
 
 </%Namespace%>
 ```
-
-## Callouts
-
-Callouts are a type of note that can be included in XML documentation to provide additional information, warnings, tips, or other contextual details. They are typically used to highlight important points or provide extra guidance to developers who are reading the documentation.
-
-```xml
-<para>
-    <note>
-        This example demonstrates the handling of a <c>note</c> element with no
-        defined type. It defaults to the "note" style.
-    </note>
-</para>
-<para>
-    <note type="tip">
-        A <c>tip> callout</c>.
-    </note>
-</para>
-<para>
-    <note type="tip" title="Custom title">
-        A <c>tip> callout</c> with a custom title.
-    </note>
-</para>
-<para>
-    <note type="caution">
-        A <c>caution</c> callout.
-    </note>
-</para>
-<para>
-    <note type="important">
-        An <c>important</c> callout.
-    </note>
-</para>
-<para>
-    <note type="security">
-        A <c>security</c> callout.
-    </note>
-</para>
-<para>
-    <note type="C#">
-        A <c>C#</c> callout.
-    </note>
-</para>
-<para>
-    <note type="implement">
-        For implementers.
-    </note>
-</para>
-<para>
-        <note type="caller">
-        For callers.
-        </note>
-</para>
-<para>
-    <note type="inherit">
-        For inheritors.
-    </note>
-</para>
-```
-
-### What they look like
-
-![01](./XmlDocumentation_resource/XmlDocumentation-01.png)
-![02](./XmlDocumentation_resource/XmlDocumentation-02.png)
 
 ## Additional information
 
