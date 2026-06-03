@@ -35,11 +35,11 @@
 <details>
 <summary>Documentation</summary>
 
-| Topic                                                  |                                                                            |
-|:-------------------------------------------------------|----------------------------------------------------------------------------|
-| [Markdown](documentation/Markdown.md)                  | Text-to-HTML conversion tool for web writers                               |
-| [Mermaid](documentation/Mermaid.md)                    | JavaScript-based diagramming and charting tool                             |
-| [XML Documentation](documentation/XmlDocumentation.md) | Document code elements that can be processed to generate API documentation |
+| Topic                                                    |                                                                            |
+|:---------------------------------------------------------|----------------------------------------------------------------------------|
+| [Markdown](./Documentation/Markdown.md)                  | Text-to-HTML conversion tool for web writers                               |
+| [Mermaid](./Documentation/Mermaid.md)                    | JavaScript-based diagramming and charting tool                             |
+| [XML Documentation](./Documentation/XmlDocumentation.md) | Document code elements that can be processed to generate API documentation |
 
 </details>
 
