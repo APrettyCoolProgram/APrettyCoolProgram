@@ -654,8 +654,8 @@ See <see cref="GetVersion()"/> to add doubles.
 
 ## What they look like
 
-![01](XML-Callouts-01.png)
-![02](XML-Callouts-02.png)
+![01](XmlDocumentation_resource/XML-Callouts-01.png)
+![02](XmlDocumentation_resource/XML-Callouts-02.png)
 
 # Complete XML documentation example
 
