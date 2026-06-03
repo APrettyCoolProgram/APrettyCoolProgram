@@ -14,7 +14,7 @@
 
 </div>
 
-AutoHotkey provides a simple, flexible syntax allowing you to focus more on the task at hand rather than every single little technicality. It supports not only the popular imperative-procedural paradigm, but also object-oriented and command-based programming.
+AutoHotkey is a free, open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks such as: form fillers, auto-clicking, macros, etc.
 
 * [AutoHotkey.com](https://www.autohotkey.com)
 * [AutoHotkey dotfile](AutoHotKey.ahk)
