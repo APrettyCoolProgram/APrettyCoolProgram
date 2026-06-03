@@ -8,18 +8,22 @@
 
   <h1>The APCP Documentation Project</h1>
 
+<!--               A-H                    |                    I-P                  |                    Q-Z               -->
+|                                           |                  TOPICS                    |                                         |
+|:------------------------------------------|:-------------------------------------------|:----------------------------------------|
+| Artificial Intelligence                   | Documentation                              | Visual Studio                           |
+| [Agent files](#agent-files)               | [Markdown](#markdown.md)                   | [Visual Studio 2026](#visual-studio-2026)|
+|                                           | [Mermaid](#mermaid.md)                     | [Visual Studio Code](#visual-studio-code)|
+|                                           | [XML Documentation](#xml-documentation.md) | |
+|                                           | Other applications                         ||
+|                                           | [AutoHotkey](#autohotkey)                  ||
+|                                           | [Microsoft IIS](#microsoft-iis)            ||
+|                                           |                                            ||
+| ----------------------------------------  | ----------------------------------------   | ---------------------------------------- |
+
 </div>
 
-| CONTENTS                                  |                                         ||
-|:------------------------------------------|:----------------------------------------|:----------------------------------------|
-| Applications                              | Visual Studio                           ||
-| [Microsoft IIS](#microsoft-iis)   | ||
-| [Visual Studio 2026](#visual-studio-2026) |  ||
-| [Visual Studio Code](#visual-studio-code) |  | |
-| [Other applications](#other-applications) |  ||
-| Artificial Intelligence                 |             ||
-| [Agent files](#agent-files)             |             ||
-| ----------------------------------------  | ---------------------------------------- | ---------------------------------------- |
+---
 
 | [Mermaid](#mermaid.md)     | |
 | [XML Documentation](#xml-documentation.md) | |
