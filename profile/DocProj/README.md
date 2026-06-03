@@ -12,15 +12,19 @@
 
 | CONTENTS                                                        |
 |:----------------------------------------------------------------|
-| [Artificial Intelligence](#ai) |
-| [Applications](#applications)       |
-| [Backgrounds](#backgrounds)   |
+| Artificial Intelligence |
+| &nbsp;&nbsp;&nbsp;&nbsp;[AGENT files](#agent-files)|
+| Applications       |
+| &nbsp;&nbsp;&nbsp;&nbsp;[Visual Studio 2026](#visual-studio)|
+| &nbsp;&nbsp;&nbsp;&nbsp;[Visual Studio Code](#visual-studio)|
+| &nbsp;&nbsp;&nbsp;&nbsp;[Other applications](#other-applications)|
 | [Documentation guidelines](#documentation-guidelines) |
 | [Dotfiles](#dotfiles)             |
 | [Projects](#projects)             |
 | [Repositories](#repositories)     |
 | [Scoop](#scoop)                   |
 | [Windows Subsystem for Linux (WSL)](#windows-subsystem-for-linux-wsl) |
+| [Miscellaneous](#miscellaneous)   |
 
 ---
 
@@ -30,10 +34,12 @@ The project is organized into different sections, each containing relevant docum
 
 ## Applications
 
-### Visual Studio
+### Visual Studio 2026
 
   - [Publishing Projects](apps/vs/2026/publish/README.md)
   - [Setup](apps/vs/2026/setup/README.md)
+
+### Visual Studio Code
 
 ### Other applications
 
@@ -42,16 +48,10 @@ The project is organized into different sections, each containing relevant docum
 
 ## Artificial Intelligence
 
-### Agent files
+### AGENT files
 
 - [AGENT.md](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/AGENTS.md)
 - [C# XML Documentation Agent](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/.github/agents/xml-documentation-csharp-agent.md)
-
-
-## Backgrounds
-
-- [Claudia IDE](backgrounds/Claudia/)  
-- [Desktop wallpaper](backgrounds/Desktop/)  
 
 ## Documentation guidelines
 
@@ -63,6 +63,11 @@ The project is organized into different sections, each containing relevant docum
 
 - [AutoHotkey](dotfiles/AutoHotKey.ahk)
 - [Visual Studio 2026 .vssetttings](dotfiles/vs2026-exported-250311.vssettings)
+
+## Miscellaneous
+
+- [Claudia IDE](backgrounds/Claudia/)  
+- [Desktop wallpaper](backgrounds/Desktop/)  
 
 ## Projects
 
