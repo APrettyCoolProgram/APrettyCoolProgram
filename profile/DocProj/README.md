@@ -8,48 +8,69 @@
 
   <h1>The APCP Documentation Project</h1>
 
-
-
-
-
-<!--               A-H                    |                    I-P                  |                    Q-Z               -->
-|                                           |                  TOPICS                    |                                         |
-|:------------------------------------------|:-------------------------------------------|:----------------------------------------|
-| Artificial Intelligence                   | Documentation                              | Visual Studio                           |
-| [Agent files](#agent-files)               | [Markdown](#markdown.md)                   | [Visual Studio 2026](#visual-studio-2026)|
-|                                           | [Mermaid](#mermaid.md)                     | [Visual Studio Code](#visual-studio-code)|
-|                                           | [XML Documentation](#xml-documentation.md) | |
-|                                           | Other applications                         ||
-|                                           | [AutoHotkey](#autohotkey)                  ||
-|                                           | [Microsoft IIS](#microsoft-iis)            ||
-|                                           |                                            ||
-| ----------------------------------------  | ----------------------------------------   | ---------------------------------------- |
-
 </div>
 
 ---
 
 <details>
+<summary>Applications</summary>
+
+| Topic                                                              |   |
+|--------------------------------------------------------------------|---|
+| [AutoHotkey](#autohotkey.md)                                       |   |
+| [Internet Information Services](#internet-information-services.md) |   |
+| [Sandcastle Help File Builder](#sandcastle-help-file-builder.md)   |   |
+| [Visual Studio 2026](#visual-studio-2026)                          |   |
+| [Visual Studio 2026](#visual-studio-code)                          |   |
+
+</details>
+
+<details>
 <summary>Artificial Intelligence</summary>
-<p>This is additional information that can be toggled open or closed.</p>
+
+| Topic                       |   |
+|-----------------------------|---|
+| [AGENT files](#agent-files) |   |
+
 </details>
 
 <details>
 <summary>Documentation</summary>
 
-|                                            |    |
-| ------------------------------------------ | ---|
-| [Markdown](#markdown.md)                   | Text-to-HTML conversion tool for web writers |
-| [Mermaid](#mermaid.md)                     | JavaScript-based diagramming and charting tool |
+| Topic                                      |                                                                             |
+|--------------------------------------------|-----------------------------------------------------------------------------|
+| [Markdown](#markdown.md)                   | Text-to-HTML conversion tool for web writers                                |
+| [Mermaid](#mermaid.md)                     | JavaScript-based diagramming and charting tool                              |
 | [XML Documentation](#xml-documentation.md) | Document code elements that can be processed to generate API documentation. |
 
 </details>
 
+<details>
+<summary>GitHub</summary>
 
-| [Mermaid](#mermaid.md)     | |
-| [XML Documentation](#xml-documentation.md) | |
-| [Dotfiles](#dotfiles)             |
-| [Projects](#projects)             |
+| Topic                                       |   |
+|---------------------------------------------|---|
+| [Repository template](#repository-template) |   |
+
+<details>
+<summary>Miscellaneous</summary>
+
+| Topic                                     |   |
+|-------------------------------------------|---|
+| [Desktop wallpapers](#desktop-wallpapers) |   |
+
+</details>
+
+<details>
+<summary>Windows Subsystem for Linux (WSL)</summary>
+
+| Topic                                                                 |   |
+|-----------------------------------------------------------------------|---|
+| [Windows Subsystem for Linux (WSL)](#windows-subsystem-for-linux-wsl) |   |
+
+</details>
+
+
 | [Repositories](#repositories)     |
 | [Scoop](#scoop)                   |
 | [Windows Subsystem for Linux (WSL)](#windows-subsystem-for-linux-wsl) |
