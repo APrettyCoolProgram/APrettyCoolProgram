@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[The Documentation Project](profile/the-documentation-project/README.md)
+[The Documentation Project](profile/DocProj/README.md)
 
 
 <!--
