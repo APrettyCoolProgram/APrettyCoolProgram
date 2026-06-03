@@ -10,15 +10,16 @@
 
 </div>
 
-<!-- Guide
-|:----------------------------------------|:----------------------------------------| -->
-| CONTENTS                                  |                                         |
-|:------------------------------------------|:----------------------------------------|
-| Applications                              | Visual Studio                           |
-| [AutoHotkey](#autohotkey)                 |  |
-| [Internet Information Services](#internet-information-services)   | |
-| [Visual Studio 2026](#visual-studio-2026) |  |
-| [Visual Studio Code](#visual-studio-code) |  |
+| CONTENTS                                  |                                         ||
+|:------------------------------------------|:----------------------------------------|:----------------------------------------|
+| Applications                              | Visual Studio                           ||
+| [Microsoft IIS](#microsoft-iis)   | ||
+| [Visual Studio 2026](#visual-studio-2026) |  ||
+| [Visual Studio Code](#visual-studio-code) |  | |
+| [Other applications](#other-applications) |  ||
+| Artificial Intelligence                 |             ||
+| [Agent files](#agent-files)             |             ||
+| ----------------------------------------  | ---------------------------------------- | ---------------------------------------- |
 
 | [Mermaid](#mermaid.md)     | |
 | [XML Documentation](#xml-documentation.md) | |
@@ -79,7 +80,7 @@ The project is organized into different sections, each containing relevant docum
 
 ## Artificial Intelligence
 
-### AGENT files
+### Agent files
 
 - [AGENT.md](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/AGENTS.md)
 - [C# XML Documentation Agent](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/.github/agents/xml-documentation-csharp-agent.md)
