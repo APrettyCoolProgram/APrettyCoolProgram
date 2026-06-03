@@ -70,40 +70,6 @@
 
 </details>
 
-
-| [Repositories](#repositories)     |
-| [Scoop](#scoop)                   |
-| [Windows Subsystem for Linux (WSL)](#windows-subsystem-for-linux-wsl) |
-| [Miscellaneous](#miscellaneous)   |
-
-| CONTENTS                                |                                         |
-|:----------------------------------------|:----------------------------------------|
-| Artificial Intelligence                 | Visual Studio                           |
-| [AGENT files](#agent-files)             | [Visual Studio 2026](#visual-studio-2026) |
-| Documentation                           | [Visual Studio 2026](#visual-studio-code) |
-| [Markdown](#markdown.md)   | |
-| [Mermaid](#mermaid.md)     | |
-| [XML Documentation](#xml-documentation.md) | |
-| [Dotfiles](#dotfiles)             |
-| [Projects](#projects)             |
-| [Repositories](#repositories)     |
-| [Scoop](#scoop)                   |
-| [Windows Subsystem for Linux (WSL)](#windows-subsystem-for-linux-wsl) |
-| [Miscellaneous](#miscellaneous)   |
-
-
-| TOPIC                                                      | SUBTOPIC   |
-|:----------------------------------------------------------------| --- |
-| **Artificial Intelligence** | [AGENT files](#agent-files) |
-| Applications | [Visual Studio 2026](#visual-studio) - [Visual Studio Code](#visual-studio) - [Other applications](#other-applications) |
-| [Documentation](#documentation) | [Markdown](documentation/Markdown.md) - [Mermaid](documentation/Mermaid.md) - [XML documentation](documentation/XmlDocumentation.md) |
-| [Dotfiles](#dotfiles)             ||
-| [Projects](#projects)             ||
-| [Repositories](#repositories)     ||
-| [Scoop](#scoop)                   ||
-| [Windows Subsystem for Linux (WSL)](#windows-subsystem-for-linux-wsl) ||
-| [Miscellaneous](#miscellaneous)   ||
-
 ---
 
 The APCP Documentation Project is a collection of documentation files for various topics related to software development, tools, and technologies.
