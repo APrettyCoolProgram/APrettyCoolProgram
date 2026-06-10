@@ -16,7 +16,6 @@
 | Topic                                                        |                                                |
 |--------------------------------------------------------------|------------------------------------------------|
 | [AutoHotkey](./Application/AutoHotkey/README.md)             | Create scripts for automating tasks on Windows |
-| [Internet Information Services](./Application/IIS/README.md) | Windows web server                             |
 | [Sandcastle Help File Builder](./Application/SHFB/README.md) | API documentation builder                      |
 | [Visual Studio 2026](./Application/VS2026/README.md)         | IDE for Windows                                |
 | [Visual Studio Code](./Application/VSCode/README.md)         | Cross-platform code editor                     |
