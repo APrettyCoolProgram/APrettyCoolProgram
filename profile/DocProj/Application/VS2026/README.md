@@ -227,7 +227,7 @@ For example:
 
 WPF projects should look like this:
 
-![](./readme-01.png)
+![](./Resources/readme-01.png)
 
 Console projects should look like this:
 
