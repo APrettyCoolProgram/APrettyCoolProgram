@@ -5,9 +5,9 @@
 ### The Documentation Project
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../../../.github/repository/logo/apcp-logo-dark-256x256.png">
-    <source media="(prefers-color-scheme: light)" srcset="../../../.github/repository/logo/apcp-logo-light-256x256.png">
-    <img alt="Fallback image description" src="../../../.github/repository/logo/apcp-logo-light-256x256.png">
+    <source media="(prefers-color-scheme: dark)" srcset="../../../.github/logo/dark/256x256.png">
+    <source media="(prefers-color-scheme: light)" srcset="../../../.github/logo/light/256x256.png">
+    <img alt="Fallback image description" src="../../../.github/logo/light/256x256.png">
   </picture>
 
 # Visual Studio 2026
@@ -48,35 +48,50 @@ To install an extension:
 
 ### Mads Kristensen extensions
 
-[Mads Kristensen](https://www.madskristensen.net/) is a Principal Product Manager for Visual Studio, and has made some awesome extensions:
+[Mads Kristensen](https://www.madskristensen.net/) is a Principal Product Manager for Visual Studio, and has made some awesome extensions.
 
 - [ ] [Add New File (64-bit)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile64)
-* [Clean Solution](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CleanSolution)
-* [Code Cleanup On Save](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CodeCleanupOnSave)
-* [Color Preview](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ColorPreview)
-* [Copy Nice](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CopyNice)
-* [Comment Remover](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommentRemover)
-* [Editor Enhancements](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorEnhancements64)
-* [Editor Info](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DocumentMargin)
-* [File Differ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileDiffer)
-* [File Explorer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WorkflowBrowser)
-* [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
-* [Font Sizer 2.0](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FontSizer2)
-* [Image Optimizer (64-bit)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImageOptimizer64bit)
-* [Image Preview](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImagePreview)
-* [JSON Schema Tools](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JSONSchemaGenerator2)
-* [KnownMonikers Explorer (64 bit)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.KnownMonikersExplorer2022)
-* [Markdown Editor v2](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor2)
-* [Open Command Line](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine64)
-* [Open in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
-* [Output Window Filter](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OutputWindowFilter)
-* [Show Selection Length](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ShowSelectionLength)
-* [Solution Colors](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.SolutionColors)
-* [Solution Favorites](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.SolutionFavorites)
-* [Syntax Booster Pack](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.LanguagePack&ssr=false#overview)
-* [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespace64)
-* [Tweaks 2022](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Tweaks2022)
-* [Voice Typing](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Speak)
+
+
+- [ ] [Developer News](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DeveloperNews)
+- [X] [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
+- [ ] [Font Sizer 2.0](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FontSizer2)
+- [ ] [Insert GUID](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.insertguid)
+- [ ] [Output Enhancer](https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer)
+- [ ] [Theme Switcher](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ThemeSwitcher)
+- [ ] [Tweaks 2022](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Tweaks2022)
+
+- [ ] [Clean Solution](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CleanSolution)
+
+- [ ] [Open in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.
+
+
+
+- [ ] [Code Cleanup On Save](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CodeCleanupOnSave)
+- [ ] [Color Preview](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ColorPreview)
+- [ ] [Copy Nice](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CopyNice)
+- [ ] [Comment Remover](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommentRemover)
+- [ ] [Editor Enhancements](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorEnhancements64)
+- [ ] [Editor Info](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DocumentMargin)
+- [ ] [File Differ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileDiffer)
+- [ ] [File Explorer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WorkflowBrowser)
+
+
+- [ ] [Image Optimizer (64-bit)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImageOptimizer64bit)
+- [ ] [Image Preview](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImagePreview)
+- [ ] [JSON Schema Tools](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JSONSchemaGenerator2)
+- [ ] [KnownMonikers Explorer (64 bit)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.KnownMonikersExplorer2022)
+- [ ] [Markdown Editor v2](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor2)
+- [ ] [Open Command Line](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine64)
+OpeninVisualStudioCode)
+- [ ] [Output Window Filter](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OutputWindowFilter)
+- [ ] [Show Selection Length](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ShowSelectionLength)
+- [ ] [Solution Colors](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.SolutionColors)
+- [ ] [Solution Favorites](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.SolutionFavorites)
+- [ ] [Syntax Booster Pack](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.LanguagePack&ssr=false#overview)
+- [ ] [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespace64)
+
+- [ ] [Voice Typing](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Speak)
 
 There are a few themes as well:
 

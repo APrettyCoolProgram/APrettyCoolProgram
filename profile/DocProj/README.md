@@ -1,9 +1,9 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../.github/repository/logo/apcp-logo-dark-256x256.png">
-    <source media="(prefers-color-scheme: light)" srcset="../.github/repository/logo/apcp-logo-light-256x256.png">
-    <img alt="Fallback image description" src="../.github/repository/logo/apcp-logo-light-256x256.png">
+    <source media="(prefers-color-scheme: dark)" srcset="../.github/logo/dark/256x256.png">
+    <source media="(prefers-color-scheme: light)" srcset="../.github/logo/light/256x256.png">
+    <img alt="Fallback image description" src="../.github/logo/light/256x256.png">
   </picture>
 
   <h1>The APCP Documentation Project</h1>

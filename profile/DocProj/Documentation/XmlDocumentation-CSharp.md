@@ -5,9 +5,9 @@
 ### The APCP Documentation Project
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../../.github/Repository/Logo/apcp-logo-dark-256x256.png">
-    <source media="(prefers-color-scheme: light)" srcset="../../.github/Repository/Logo/apcp-logo-light-256x256.png">
-    <img alt="Fallback image description" src="../../.github/Repository/Logo/apcp-logo-light-256x256.png">
+    <source media="(prefers-color-scheme: dark)" srcset="../../.github/logo/dark/256x256.png">
+    <source media="(prefers-color-scheme: light)" srcset="../../.github/logo/light/256x256.png">
+    <img alt="Fallback image description" src="../../.github/logo/light/256x256.png">
   </picture>
 
 # C# XML Documentation
