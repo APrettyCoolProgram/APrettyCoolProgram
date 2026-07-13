@@ -10,9 +10,6 @@
 
 </div>
 
-<details>
-<summary>Applications</summary>
-
 | Topic                                                        |                                                |
 |--------------------------------------------------------------|------------------------------------------------|
 | [AutoHotkey](./Application/AutoHotkey/README.md)             | Create scripts for automating tasks on Windows |
@@ -20,19 +17,9 @@
 | [Visual Studio 2026](./Application/VS2026/README.md)         | IDE for Windows                                |
 | [Visual Studio Code](./Application/VSCode/README.md)         | Cross-platform code editor                     |
 
-</details>
-
-<details>
-<summary>Artificial Intelligence</summary>
-
 | Topic                                     |                                       |
 |-------------------------------------------|---------------------------------------|
 | [AGENT files](./AI/README.md#agent-files) | Open format for guiding coding agents |
-
-</details>
-
-<details>
-<summary>Documentation</summary>
 
 | Topic                                                                |                                                                            |
 |:---------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -40,31 +27,14 @@
 | [Mermaid](./Documentation/Mermaid.md)                                | JavaScript-based diagramming and charting tool                             |
 | [XML Documentation (C#)](./Documentation/XmlDocumentation-CSharp.md) | Document code elements that can be processed to generate API documentation |
 
-</details>
-
-<details>
-<summary>GitHub</summary>
-
 | Topic                                                                            |                                                        |
 |:---------------------------------------------------------------------------------|--------------------------------------------------------|
 | [Repository template](https://github.com/APrettyCoolProgram/Repository-Template) | A GitHub repository template for creating new projects |
-
-</details>
-
-<details>
-<summary>Miscellaneous</summary>
 
 | Topic                                                            |                    |
 |:-----------------------------------------------------------------|--------------------|
 | [Desktop wallpapers](./Miscellaneous/README.md) | Desktop wallpapers |
 
-</details>
-
-<details>
-<summary>Windows Subsystem for Linux (WSL)</summary>
-
 | Topic                                                                 |   |
 |:----------------------------------------------------------------------|---|
 | [Windows Subsystem for Linux (WSL)](./WSL/README.md) |   |
-
-</details>
