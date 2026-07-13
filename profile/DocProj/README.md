@@ -14,10 +14,10 @@
 
 ## Applications
 
-[AutoHotkey](./Application/AutoHotkey/README.md)
-[Sandcastle Help File Builder](./Application/SHFB/README.md)
-[Visual Studio 2026](./Application/VS2026/README.md)
-[Visual Studio Code](./Application/VSCode/README.md)
+[AutoHotkey](./Application/AutoHotkey/README.md)  
+[Sandcastle Help File Builder](./Application/SHFB/README.md)  
+[Visual Studio 2026](./Application/VS2026/README.md)  
+[Visual Studio Code](./Application/VSCode/README.md)  
 
 # AI
 
@@ -25,8 +25,8 @@
 
 ## Documentation
 
-[Markdown](./Documentation/Markdown.md)
-[Mermaid](./Documentation/Mermaid.md)
+[Markdown](./Documentation/Markdown.md)  
+[Mermaid](./Documentation/Mermaid.md)  
 [XML Documentation (C#)](./Documentation/XmlDocumentation-CSharp.md)
 
 ## Repositories

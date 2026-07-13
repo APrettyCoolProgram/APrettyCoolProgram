@@ -14,13 +14,8 @@
 
 </div>
 
-## AGENT files
-AGENT files are an open format for guiding coding agents.
-
-They are designed to be simple and easy to use, while also being powerful enough to support a wide range of coding tasks.
-
 * [AGENT.md](https://gist.github.com/APrettyCoolProgram/db5b7708c9ca236f3668bd39a036e1fe)
-* [xml-documentation-csharp-agent.md](https://gist.github.com/APrettyCoolProgram/0da90982c071060636c6c29570286f19)
+* [AGENT-CSharp-XmlDocumentation.md ](https://gist.github.com/APrettyCoolProgram/0da90982c071060636c6c29570286f19)
 
 <br/>
 
