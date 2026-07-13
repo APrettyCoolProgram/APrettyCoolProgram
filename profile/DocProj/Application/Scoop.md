@@ -14,7 +14,7 @@ This documentation is not currently used/displayed.
     <img alt="Fallback image description" src="../../../.github/logo/light/256x256.png">
   </picture>
 
-# Scoop Overview
+# Scoop
 
 </div>
 

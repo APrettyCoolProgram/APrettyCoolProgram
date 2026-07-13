@@ -1,4 +1,5 @@
 [The Documentation Project](../README.md) ❭ [Artificial Intelligence](README.md) ❭ Common Prompts
+
 <div align="center">
 
 ### The Documentation Project

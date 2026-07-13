@@ -1,7 +1,7 @@
 ; =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 ; AutoHotKey script for A Pretty Cool Program projects.
 ; https://github.com/APrettyCoolProgram
-; R26.4 (260309)
+; R26.7 (260713)
 ; =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 ; This is for use with dvn: https://github.com/APrettyCoolProgram/dvn
