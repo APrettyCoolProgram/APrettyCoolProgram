@@ -13,6 +13,7 @@
 </div>
 
 ## Applications
+
 * [AutoHotkey.ahk](Applications/AutoHotKey.ahk)
 * [Sandcastle Help File Builder](Applications/SHFB/README.md)
 * [Scoop](Applications/Scoop.md)
