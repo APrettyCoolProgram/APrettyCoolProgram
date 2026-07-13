@@ -50,7 +50,7 @@ To install an extension:
 
 [Mads Kristensen](https://www.madskristensen.net/) is a Principal Product Manager for Visual Studio, and has made some awesome extensions:
 
-* [Add New File (64-bit)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile64)
+- [ ] [Add New File (64-bit)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile64)
 * [Clean Solution](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CleanSolution)
 * [Code Cleanup On Save](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CodeCleanupOnSave)
 * [Color Preview](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ColorPreview)
@@ -258,4 +258,4 @@ https://learn.microsoft.com/en-us/dotnet/core/deploying/
 
 [🏠︎](README.md) ❭ Applications > Visual Studio 2026
 
-<sub>Last updated: 260603</sub>
+<sub>Last updated: 260713</sub>
