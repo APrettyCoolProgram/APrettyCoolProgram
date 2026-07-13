@@ -1,4 +1,4 @@
-[🏠︎](README.md) ❭ Applications > Visual Studio 2026
+[The Documentation Project](../../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Visual Studio 2026 Extensions
 
 <div align="center">
 
@@ -10,20 +10,17 @@
     <img alt="Fallback image description" src="../../../.github/logo/light/256x256.png">
   </picture>
 
-# Visual Studio 2026
+# Visual Studio 2026 Extensions
 
 </div>
 
-| CONTENTS |
-| -------- |
-| [Setup](#setup) |
-| [Extensions](#extensions) |
-| [Configure](#configure) |
-| [Publishing](#publishing) |
-
-
-
-## Extensions
+> [!NOTE]
+> As of version 18.7.3, the following extensions are installed by default:
+> - Copilot.LogViewerExtension
+> - Microsoft Library Manager
+> - ML.NET Model Builder 2022
+> - Single-project MSIX Packaging Tools for VS 2022-26
+> - Visual Studio Snapshot Debugger
 
 To install an extension:
 
@@ -32,84 +29,75 @@ To install an extension:
 3. Search for the extension name
 4. Click "Install"
 
-## Recommended extensions
-
 ### Mads Kristensen extensions
 
 [Mads Kristensen](https://www.madskristensen.net/) is a Principal Product Manager for Visual Studio, and has made some awesome extensions.
 
 - [ ] [Add New File (64-bit)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile64)
-
-
-- [ ] [Developer News](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DeveloperNews)
-- [X] [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
-- [ ] [Font Sizer 2.0](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FontSizer2)
-- [ ] [Insert GUID](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.insertguid)
-- [ ] [Output Enhancer](https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer)
-- [ ] [Theme Switcher](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ThemeSwitcher)
-- [ ] [Tweaks 2022](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Tweaks2022)
-
 - [ ] [Clean Solution](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CleanSolution)
-
-- [ ] [Open in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.
-
-
-
 - [ ] [Code Cleanup On Save](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CodeCleanupOnSave)
 - [ ] [Color Preview](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ColorPreview)
-- [ ] [Copy Nice](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CopyNice)
 - [ ] [Comment Remover](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommentRemover)
+- [ ] [Comment Studio](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommentStudio)
+- [ ] [Copy Nice](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CopyNice)
+- [ ] [CSV Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CSVEditor)
+- [ ] [Developer News](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DeveloperNews)
 - [ ] [Editor Enhancements](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorEnhancements64)
 - [ ] [Editor Info](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DocumentMargin)
 - [ ] [File Differ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileDiffer)
 - [ ] [File Explorer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WorkflowBrowser)
-
-
+- [ ] [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
+- [ ] [Font Sizer 2.0](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FontSizer2)
 - [ ] [Image Optimizer (64-bit)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImageOptimizer64bit)
 - [ ] [Image Preview](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImagePreview)
+- [ ] [Insert GUID](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.insertguid)
 - [ ] [JSON Schema Tools](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JSONSchemaGenerator2)
 - [ ] [KnownMonikers Explorer (64 bit)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.KnownMonikersExplorer2022)
 - [ ] [Markdown Editor v2](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor2)
+- [ ] [Markdown Linter](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownLint)
 - [ ] [Open Command Line](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine64)
-OpeninVisualStudioCode)
+- [ ] [Open in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenInVisualStudioCode)
 - [ ] [Output Window Filter](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OutputWindowFilter)
 - [ ] [Show Selection Length](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ShowSelectionLength)
 - [ ] [Solution Colors](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.SolutionColors)
 - [ ] [Solution Favorites](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.SolutionFavorites)
-- [ ] [Syntax Booster Pack](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.LanguagePack&ssr=false#overview)
+- [ ] [Start Screen](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.StartScreen)
+- [ ] [Syntax Booster Pack](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.LanguagePack)
 - [ ] [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespace64)
-
-- [ ] [Voice Typing](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Speak)
+- [ ] [Tweaks 2022](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Tweaks2022)
+- [ ] [Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WhitespaceVisualizer)
 
 There are a few themes as well:
 
-* [Dark Theme (2019)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.GitHubThemes)
-* [GitHub Themes](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.GitHubThemes)
-* [Original Blue Theme](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BlueColorTheme)
-* [Winter is Coming](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WinterIsComing)
+- [ ] [Dark Theme (2019)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.GitHubThemes)
+- [ ] [GitHub Themes](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.GitHubThemes)
+- [ ] [Winter is Coming](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WinterIsComing)
 
+<!--
 ### Microsoft/Microsoft DevLabs extensions
 
 Official extensions and themes from Microsoft.
 
-* [SlowCheetah](https://marketplace.visualstudio.com/items?itemName=vscps.SlowCheetah-XMLTransforms-VS2022)
-* [Visual Studio Theme Pack](https://marketplace.visualstudio.com/items?itemName=idex.vsthemepack)
-* [Visual Studio 25th Anniversary Theme Pack](https://marketplace.visualstudio.com/items?itemName=idex.vsanniversarythemepack)
+- [ ] [SlowCheetah](https://marketplace.visualstudio.com/items?itemName=vscps.SlowCheetah-XMLTransforms-VS2022)
+- [ ] [Visual Studio Theme Pack](https://marketplace.visualstudio.com/items?itemName=idex.vsthemepack)
+- [ ] [Visual Studio 25th Anniversary Theme Pack](https://marketplace.visualstudio.com/items?itemName=idex.vsanniversarythemepack)
+-->
 
 ### Other extensions
 
-* [Avalonia](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaVS)
+<!-- - [Avalonia](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaVS)-->
 * [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE)
 * [Collapse Comments](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments)
 * [CopyFolderTree](https://marketplace.visualstudio.com/items?itemName=iyulab.CopyFolderTree)
 * [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelinesPreview)
 * [Extended XML Doc Comments Provider](https://marketplace.visualstudio.com/items?itemName=EWoodruff.ExtendedDocCommentsProvider2022)
 * [Json Formatter](https://marketplace.visualstudio.com/items?itemName=KentonStandard.JsonFormatter)
-<!-- - [JSON Pretty](https://marketplace.visualstudio.com/items?itemName=Hemax2000.JsonPretty) -->
+- [ ] [Output Enhancer](https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer)
+<!-- - [ ] [JSON Pretty](https://marketplace.visualstudio.com/items?itemName=Hemax2000.JsonPretty) -->
 * [Roslynator 2022](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2022)
 * [SolutionMapper](https://marketplace.visualstudio.com/items?itemName=TJGokken.solmap2025)
 * [Spell Check My Code](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2022andLater)
-<!--  - [VSColorOutput64](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput64) -->
+<!-- - [ ] [VSColorOutput64](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput64) -->
 * [XAML Styler for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler2022)
 
 ### Themes
@@ -259,6 +247,6 @@ https://learn.microsoft.com/en-us/dotnet/core/deploying/
 
 ***
 
-[🏠︎](README.md) ❭ Applications > Visual Studio 2026
+[The Documentation Project](../../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Visual Studio 2026 Extensions
 
 <sub>Last updated: 260713</sub>

@@ -19,7 +19,7 @@
 * [Scoop](Applications/Scoop.md)
 * Visual Studio 2026
   * [Install](Applications/VS2026/Install.md)
-  * [Setup](Applications/VS2026/Setup.md)
+  * [Extensions](Applications/VS2026/Extensions.md)
   * [Publishing](Applications/VS2026/Publishing.md)
 * [Visual Studio Code](Applications/VSCode/README.md)
 

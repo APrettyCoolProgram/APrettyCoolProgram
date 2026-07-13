@@ -1,4 +1,4 @@
-[The Documentation Project](../../README.md) ❭ Applications ❭ [Visual Studio 2026](../VS2026/README.md) > Installing Visual Studio 2026
+[The Documentation Project](../../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Installing Visual Studio 2026
 
 <div align="center">
 
@@ -14,8 +14,6 @@
 
 </div>
 
-## Setup
-
 Installing Visual Studio 2026 is pretty straight forward, just download the [installer](https://visualstudio.microsoft.com/vs/) and follow the prompts.
 
 ### Visual Studio Workflows
@@ -30,6 +28,6 @@ For example, I've installed the following workflows for developing web services 
 
 ***
 
-[The Documentation Project](../../README.md) ❭ Applications ❭ [Visual Studio 2026](../VS2026/README.md) > Installing Visual Studio 2026
+[The Documentation Project](../../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Installing Visual Studio 2026
 
 <sub>Last updated: 260713</sub>
