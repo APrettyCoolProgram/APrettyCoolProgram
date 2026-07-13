@@ -12,13 +12,13 @@
 
 # Visual Studio 2026
 
-</div>
-
 | CONTENTS |
 | -------- |
 | [Install](Install.md) |
 | [Setup](Setup.md) |
 | [Publishing](Publishing.md) |
+
+</div>
 
 ***
 
