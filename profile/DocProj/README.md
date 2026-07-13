@@ -8,33 +8,35 @@
 
   <h1>The APCP Documentation Project</h1>
 
+  ![RELEASE](https://img.shields.io/badge/Release-26.7-teal)&nbsp;
+
 </div>
 
-| Topic                                                        |                                                |
-|--------------------------------------------------------------|------------------------------------------------|
-| [AutoHotkey](./Application/AutoHotkey/README.md)             | Create scripts for automating tasks on Windows |
-| [Sandcastle Help File Builder](./Application/SHFB/README.md) | API documentation builder                      |
-| [Visual Studio 2026](./Application/VS2026/README.md)         | IDE for Windows                                |
-| [Visual Studio Code](./Application/VSCode/README.md)         | Cross-platform code editor                     |
+## Applications
 
-| Topic                                     |                                       |
-|-------------------------------------------|---------------------------------------|
-| [AGENT files](./AI/README.md#agent-files) | Open format for guiding coding agents |
+[AutoHotkey](./Application/AutoHotkey/README.md)
+[Sandcastle Help File Builder](./Application/SHFB/README.md)
+[Visual Studio 2026](./Application/VS2026/README.md)
+[Visual Studio Code](./Application/VSCode/README.md)
 
-| Topic                                                                |                                                                            |
-|:---------------------------------------------------------------------|----------------------------------------------------------------------------|
-| [Markdown](./Documentation/Markdown.md)                              | Text-to-HTML conversion tool for web writers                               |
-| [Mermaid](./Documentation/Mermaid.md)                                | JavaScript-based diagramming and charting tool                             |
-| [XML Documentation (C#)](./Documentation/XmlDocumentation-CSharp.md) | Document code elements that can be processed to generate API documentation |
+# AI
 
-| Topic                                                                            |                                                        |
-|:---------------------------------------------------------------------------------|--------------------------------------------------------|
-| [Repository template](https://github.com/APrettyCoolProgram/Repository-Template) | A GitHub repository template for creating new projects |
+[AGENT files](./AI/README.md)
 
-| Topic                                                            |                    |
-|:-----------------------------------------------------------------|--------------------|
-| [Desktop wallpapers](./Miscellaneous/README.md) | Desktop wallpapers |
+## Documentation
 
-| Topic                                                                 |   |
-|:----------------------------------------------------------------------|---|
-| [Windows Subsystem for Linux (WSL)](./WSL/README.md) |   |
+[Markdown](./Documentation/Markdown.md)
+[Mermaid](./Documentation/Mermaid.md)
+[XML Documentation (C#)](./Documentation/XmlDocumentation-CSharp.md)
+
+## Repositories
+
+[Repository template](https://github.com/APrettyCoolProgram/Repository-Template)
+
+## Wallpapers
+
+[Desktop wallpapers](./Miscellaneous/README.md)
+
+## WSL
+
+[Windows Subsystem for Linux (WSL)](./WSL/README.md)
