@@ -21,19 +21,7 @@
 | [Configure](#configure) |
 | [Publishing](#publishing) |
 
-## Setup
 
-Installing Visual Studio 2026 is pretty straight forward, just download the [installer](https://visualstudio.microsoft.com/vs/) and follow the prompts.
-
-### Visual Studio Workflows
-
-The bulk of the install process is choosing the workflows you will need for development.
-
-For example, I've installed the following workflows for developing web services using C#:
-
-* ASP.NET and web development
-* Azure Development
-* .NET desktop development
 
 ## Extensions
 

@@ -17,9 +17,8 @@
 | CONTENTS |
 | -------- |
 | [Install](Install.md) |
-| [Extensions](#extensions) |
-| [Configure](#configure) |
-| [Publishing](#publishing) |
+| [Setup](Setup.md) |
+| [Publishing](Publishing.md) |
 
 ***
 

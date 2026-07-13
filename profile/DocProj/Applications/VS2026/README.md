@@ -1,4 +1,4 @@
-[🏠︎](../README.md) ❭ [Applications](README.md) > Visual Studio 2026
+[The Documentation Project](../../README.md) ❭ Applications ❭ Visual Studio 2026
 
 <div align="center">
 
@@ -23,6 +23,6 @@
 
 ***
 
-[🏠︎](../README.md) ❭ [Applications](README.md) > Visual Studio 2026
+[The Documentation Project](../../README.md) ❭ Applications ❭ Visual Studio 2026
 
 <sub>Last updated: 260713</sub>

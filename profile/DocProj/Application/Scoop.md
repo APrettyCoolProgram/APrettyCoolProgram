@@ -1,8 +1,4 @@
-[🏠︎](README.md) ❭ Applications > Scoop
-
-<!--
-This documentation is not currently used/displayed.
---->
+[The Documentation Project](../../README.md) ❭ Applications ❭ Scoop
 
 ### The Documentation Project
 
@@ -19,7 +15,7 @@ This documentation is not currently used/displayed.
 </div>
 
 > [!WARNING]
-> Scoop must be installed on an NTFS-formatted drive.
+> This documentation is a work-in-progress and may contain inaccuracies. Use with caution.
 
 [Scoop](https://scoop.sh/)
 
@@ -118,6 +114,6 @@ Make sure the required buckets are added::
 
 ***
 
-[🏠︎](README.md) ❭ Applications > Scoop
+[The Documentation Project](../../README.md) ❭ Applications ❭ Scoop
 
-<sub>Last updated: 260603</sub>
+<sub>Last updated: 260713</sub>
