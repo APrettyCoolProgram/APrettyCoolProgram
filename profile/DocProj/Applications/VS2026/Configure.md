@@ -21,6 +21,63 @@
 
 ## General Settings
 
+Tools > Options > All Settings
+
+### Environment
+
+* **Visual Experience** > **Color Theme**: `Dracula Theme`
+* **Documents** > Uncheck `Show Miscellaneous files...`
+* **Tabs** > **Tab colorization method**: `Project`
+* **Tabs** > Check `Maintain pin status...`
+* **Task List** >
+
+The task list should look like this:
+
+| Name        | Priority |  
+| ----------- | -------- |  
+| DEPRECIATED | Normal   |  
+| DEVNOTE     | Normal   |  
+| REVIEW      | Normal   |  
+
+* **Import and Export Settings** > Modify the `Automatically save my settings...` location
+
+### Projects and Solutions
+
+* **Locations** > Modify `Project location` location
+
+### Text Editor > General
+
+* **Display** > Check `Show whitespace`
+* **Display** > Check `Show zero-width characters`
+
+### Languages > C#
+
+
+
+
+
+
+
+## ClaudiaIDE
+
+![](./Claudia/ItsOk-1200x1200.png)
+![](./Claudia/TheDude-799x706.png)
+
+### Pretty Doc Comments
+
+* **Code Font**: `Cascadia Mono`
+* **Default Font**: `Cascadia Code`
+* **Collapse Comments to Summary**: `True`
+
+
+
+### Editor Guidelines
+
+1. Go to `Tools > Options > Environment > Fonts and Colors`
+2. Choose `Guideline` from the *Display Items* list
+3. Pick a color you like!
+
+
 
 ## Extensions
 
