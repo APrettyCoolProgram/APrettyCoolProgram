@@ -1,4 +1,4 @@
-[🏠︎](README.md) ❭ Applications > Scoop
+[The Documentation Project](README.md) ❭ Applications > Scoop
 
 <!--
 This documentation is not currently used/displayed.
@@ -118,6 +118,6 @@ Make sure the required buckets are added::
 
 ***
 
-[🏠︎](README.md) ❭ Applications > Scoop
+[The Documentation Project](README.md) ❭ Applications > Scoop
 
 <sub>Last updated: 260603</sub>

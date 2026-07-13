@@ -17,7 +17,10 @@
 * [AutoHotkey.ahk](Applications/AutoHotKey.ahk)
 * [Sandcastle Help File Builder](Applications/SHFB/README.md)
 * [Scoop](Applications/Scoop.md)
-* [Visual Studio 2026](Applications/VS2026/README.md)
+* Visual Studio 2026
+  * [Install](Applications/VS2026/Install.md)
+  * [Setup](Applications/VS2026/Setup.md)
+  * [Publishing](Applications/VS2026/Publishing.md)
 * [Visual Studio Code](Applications/VSCode/README.md)
 
 ## AI
