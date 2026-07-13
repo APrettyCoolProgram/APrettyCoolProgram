@@ -14,29 +14,30 @@
 
 ## Applications
 
-[AutoHotkey](./Application/AutoHotkey/README.md)  
-[Sandcastle Help File Builder](./Application/SHFB/README.md)  
-[Visual Studio 2026](./Application/VS2026/README.md)  
-[Visual Studio Code](./Application/VSCode/README.md)  
+* [AutoHotkey.ahk](Applications/AutoHotkey.ahk)
+* [Sandcastle Help File Builder](Applications/SHFB/README.md)
+* [Visual Studio 2026](Applications/VS2026/README.md)
+* [Visual Studio Code](Applications/VSCode/README.md)
 
-# AI
+## AI
 
-[AGENT files](./AI/README.md)
+* [AGENT files](./AI/AgentFiles.md)
+* [Common prompts](./AI/CommonPrompts.md)
 
 ## Documentation
 
-[Markdown](./Documentation/Markdown.md)  
-[Mermaid](./Documentation/Mermaid.md)  
-[XML Documentation (C#)](./Documentation/XmlDocumentation-CSharp.md)
+* [Markdown](./Documentation/Markdown.md)
+* [Mermaid](./Documentation/Mermaid.md)
+* [XML Documentation (C#)](./Documentation/XmlDocumentation-CSharp.md)
 
 ## Repositories
 
-[Repository template](https://github.com/APrettyCoolProgram/Repository-Template)
+* [Repository template](https://github.com/APrettyCoolProgram/Repository-Template)
 
 ## Wallpapers
 
-[Desktop wallpapers](./Miscellaneous/README.md)
+*[Desktop wallpapers](./Miscellaneous/README.md)
 
 ## WSL
 
-[Windows Subsystem for Linux (WSL)](./WSL/README.md)
+* [Windows Subsystem for Linux (WSL)](./WSL/README.md)
