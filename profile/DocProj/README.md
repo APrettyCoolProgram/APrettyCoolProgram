@@ -20,6 +20,7 @@
 * Visual Studio 2026
   * [Install](Applications/VS2026/Install.md)
   * [Extensions](Applications/VS2026/Extensions.md)
+  * [Configure](Applications/VS2026/Configure.md)
   * [Publishing](Applications/VS2026/Publishing.md)
 * [Visual Studio Code](Applications/VSCode/README.md)
 

@@ -86,164 +86,26 @@ Official extensions and themes from Microsoft.
 ### Other extensions
 
 <!-- - [Avalonia](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaVS)-->
-* [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE)
-* [Collapse Comments](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments)
-* [CopyFolderTree](https://marketplace.visualstudio.com/items?itemName=iyulab.CopyFolderTree)
-* [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelinesPreview)
-* [Extended XML Doc Comments Provider](https://marketplace.visualstudio.com/items?itemName=EWoodruff.ExtendedDocCommentsProvider2022)
-* [Json Formatter](https://marketplace.visualstudio.com/items?itemName=KentonStandard.JsonFormatter)
+- [ ] [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE)
+- [ ] [Collapse Comments](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments)
+- [ ] [CopyFolderTree](https://marketplace.visualstudio.com/items?itemName=iyulab.CopyFolderTree)
+- [ ] [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelinesPreview)
+- [ ] [Extended XML Doc Comments Provider](https://marketplace.visualstudio.com/items?itemName=EWoodruff.ExtendedDocCommentsProvider2022)
+- [ ] [Json Formatter](https://marketplace.visualstudio.com/items?itemName=KentonStandard.JsonFormatter)
 - [ ] [Output Enhancer](https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer)
 <!-- - [ ] [JSON Pretty](https://marketplace.visualstudio.com/items?itemName=Hemax2000.JsonPretty) -->
-* [Roslynator 2022](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2022)
-* [SolutionMapper](https://marketplace.visualstudio.com/items?itemName=TJGokken.solmap2025)
-* [Spell Check My Code](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2022andLater)
+- [ ] [Roslynator 2022](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2022)
+- [ ] [SolutionMapper](https://marketplace.visualstudio.com/items?itemName=TJGokken.solmap2025)
+- [ ] [Spell Check My Code](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2022andLater)
 <!-- - [ ] [VSColorOutput64](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput64) -->
-* [XAML Styler for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler2022)
+- [ ] [XAML Styler for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler2022)
 
 ### Themes
 
 Themes/color schemes/etc. are a personal choice. I use these:
 
-* [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula)
-* [Synthwave '84 Reborn](https://marketplace.visualstudio.com/items?itemName=Fasteroid.Synthwave84VS)
-
-## Configure
-
-### Tools > Options > All Settings
-These settings are found in **Tools** > **Options** > **All Settings**
-
-#### Environment
-
-* **Visual Experience** > **Color Theme**: `Dracula Theme`
-* **Documents** > Uncheck `Show Miscellaneous files...`
-* **Tabs** > **Tab colorization method**: `Project`
-* **Tabs** > Check `Maintain pin status...`
-* **Task List** >
-
-The task list should look like this:
-
-| Name        | Priority |  
-| ----------- | -------- |  
-| DEPRECIATED | Normal   |  
-| DEVNOTE     | Normal   |  
-| REVIEW      | Normal   |  
-
-* **Import and Export Settings** > Modify the `Automatically save my settings...` location
-
-#### Projects and Solutions
-
-* **Locations** > Modify `Project location` location
-
-#### Text Editor
-
-* **Display** > Check `Show whitespace`
-* **Display** > Check `Show zero-width characters`
-
-#### Languages
-
-See the [C#](#c) section.
-
-## ClaudiaIDE
-
-![](./Claudia/ItsOk-1200x1200.png)
-![](./Claudia/TheDude-799x706.png)
-
-### Pretty Doc Comments
-
-* **Code Font**: `Cascadia Mono`
-* **Default Font**: `Cascadia Code`
-* **Collapse Comments to Summary**: `True`
-
-### Components that are not modified
-
-The following setting components are not modified in any way:
-
-* Preview Features (as of [v18.0.1](./img/vs2026-18.0.1-preview-features.png))
-* .NET MAUI
-* Azure Data Lake
-* Azure Service Authentication
-* Collapse Comments
-* Container Tools
-* Cross Platform
-* Database Tools
-* Debugging
-* F# Tools
-* GitHub
-* GitHub Copilot for Azure
-* IntelliCode
-* NuGet Package Manager
-* Roslynator
-* Source Control
-* SQL Server Tools
-* Test
-* Text Templating
-* VSColorOutput64
-* Web
-* Web Performance Test Tools
-* Windows Form Designer
-* WSL Debugging for .NET
-* XAML Designer
-* XAML Styler
-
-### Editor Guidelines
-
-1. Go to `Tools > Options > Environment > Fonts and Colors`
-2. Choose `Guideline` from the *Display Items* list
-3. Pick a color you like!
-
-### All Settings > Environment > Task List
-
-The task list should be:
-
-* DEPRECIATED
-* DEVNOTE
-* REVIEW
-
-## Publishing
-
-How to publish as a single file:
-
-1. Right-click on the project you want to publish, and choose "Publish"
-2. Click "Add a publish profile"
-3. For the Target, choose "Folder"
-4. Choose the Specific target, choose "Folder"
-5. Choose a folder location to publish to.
-
-For example:
-
-`release\`
-
-6. Click "Close"
-7. Click "Show all settings"
-
-WPF projects should look like this:
-
-![](./Resources/readme-01.png)
-
-Console projects should look like this:
-
-![](./readme-02.png)
-
-8. Click "Save".
-
-9. Add the following to the .csproj file:
-
-```csharp
-<PropertyGroup>
-    <DebugType>embedded</DebugType>
-    <IncludeAllContentForSelfExtract>true</IncludeAllContentForSelfExtract>
-    <Version>1.0.0</Version>
-    <FileVersion>1.0.0</FileVersion>
-</PropertyGroup>
-```
-
-### Multi-project solutions
-
-If a solution has multiple projects, each project needs to be published.
-
-# More
-
-https://learn.microsoft.com/en-us/dotnet/core/deploying/
+- [ ] [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula)
+- [ ] [Synthwave '84 Reborn](https://marketplace.visualstudio.com/items?itemName=Fasteroid.Synthwave84VS)
 
 ***
 
