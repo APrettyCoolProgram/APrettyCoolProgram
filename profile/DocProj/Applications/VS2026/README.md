@@ -1,8 +1,8 @@
-[The Documentation Project](../../README.md) ❭ Applications ❭ Visual Studio 2026
+[🏠︎](../README.md) ❭ Applications > Visual Studio 2026
 
 <div align="center">
 
-### The Documentation Project
+### The Documentation Project1
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../../../.github/logo/dark/256x256.png">
@@ -12,17 +12,16 @@
 
 # Visual Studio 2026
 
-</div>
-
 | CONTENTS |
 | -------- |
 | [Install](Install.md) |
-| [Extensions](#extensions) |
-| [Configure](#configure) |
-| [Publishing](#publishing) |
+| [Setup](Setup.md) |
+| [Publishing](Publishing.md) |
+
+</div>
 
 ***
 
-[The Documentation Project](../../README.md) ❭ Applications ❭ Visual Studio 2026
+[🏠︎](../README.md) ❭ Applications> Visual Studio 2026
 
 <sub>Last updated: 260713</sub>
