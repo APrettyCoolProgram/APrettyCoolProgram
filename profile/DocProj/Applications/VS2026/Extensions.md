@@ -85,7 +85,6 @@ Official extensions and themes from Microsoft.
 
 ### Other extensions
 
-<!-- - [Avalonia](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaVS)-->
 - [ ] [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE)
 - [ ] [Collapse Comments](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments)
 - [ ] [CopyFolderTree](https://marketplace.visualstudio.com/items?itemName=iyulab.CopyFolderTree)
@@ -93,12 +92,15 @@ Official extensions and themes from Microsoft.
 - [ ] [Extended XML Doc Comments Provider](https://marketplace.visualstudio.com/items?itemName=EWoodruff.ExtendedDocCommentsProvider2022)
 - [ ] [Json Formatter](https://marketplace.visualstudio.com/items?itemName=KentonStandard.JsonFormatter)
 - [ ] [Output Enhancer](https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer)
-<!-- - [ ] [JSON Pretty](https://marketplace.visualstudio.com/items?itemName=Hemax2000.JsonPretty) -->
 - [ ] [Roslynator 2022](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2022)
 - [ ] [SolutionMapper](https://marketplace.visualstudio.com/items?itemName=TJGokken.solmap2025)
 - [ ] [Spell Check My Code](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2022andLater)
-<!-- - [ ] [VSColorOutput64](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput64) -->
 - [ ] [XAML Styler for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler2022)
+<!--
+- [Avalonia](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaVS)
+- [ ] [JSON Pretty](https://marketplace.visualstudio.com/items?itemName=Hemax2000.JsonPretty)
+- [ ] [VSColorOutput64](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput64)
+-->
 
 ### Themes
 
