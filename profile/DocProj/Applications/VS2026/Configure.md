@@ -32,7 +32,7 @@
 **Environment > Fonts and Colors**
 ***NFORMATION SOON***
 **Environment > Import and Export Settings**
-Modify this for your development environment.
+![](Resources/Configuration-AllSettings-Environment/ImportAndExportSettings-00.png)
 ![](Resources/Configuration-AllSettings-Environment/InternationalSettings-00.png)
 **Environment > Fonts and Colors**
 ***NO CHANGES***
@@ -56,12 +56,18 @@ Modify this for your development environment.
 
 ![](Resources/Configuration-AllSettings-ProjectsAndSolutions/General-00.png)
 ![](Resources/Configuration-AllSettings-ProjectsAndSolutions/AspDotNetCore-00.png)
-
-
-
-
-
-
+![](Resources/Configuration-AllSettings-ProjectsAndSolutions/Modernization-00.png)
+![](Resources/Configuration-AllSettings-ProjectsAndSolutions/ServiceDependencies-00.png)
+![](Resources/Configuration-AllSettings-ProjectsAndSolutions/WebProjects-00.png)
+**Projects and Solutions > Azure Functions**
+![](Resources/Configuration-AllSettings-ProjectsAndSolutions/AzureFunctions-00.png)
+![](Resources/Configuration-AllSettings-ProjectsAndSolutions/BuildAndRun-00.png)
+![](Resources/Configuration-AllSettings-ProjectsAndSolutions/Locations-00.png)
+![](Resources/Configuration-AllSettings-ProjectsAndSolutions/SdkStyleProjects-00.png)
+![](Resources/Configuration-AllSettings-ProjectsAndSolutions/VbDefaults-00.png)
+**Projects and Solutions > Web Package Management**
+![](Resources/Configuration-AllSettings-ProjectsAndSolutions/WebPackageManagement-00.png)
+![](Resources/Configuration-AllSettings-ProjectsAndSolutions/WebPackageManagement-01.png)
 
 
 </details>
