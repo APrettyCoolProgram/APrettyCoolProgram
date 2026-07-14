@@ -180,6 +180,10 @@
 
 </details>
 
+<br>
+
+***
+
 [The Documentation Project](../../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Configuring Visual Studio 2026
 
 <sub>Last updated: 260714</sub>
