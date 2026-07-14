@@ -14,52 +14,48 @@
 
 </div>
 
-| CONTENTS |
-| -------- |
-| [All Settings](#all-settings) |
-| [Extensions](#extensions) |
-
-## All Settings
-
 <details>
 <summary>Environment</summary>
 
-![](Resources/Configure-AllSettings-Environment-General-00.png)
-![](Resources/Configure-AllSettings-Environment-VisualExperience-00.png)
-![](Resources/Configure-AllSettings-Environment-Accounts-00.png)
-![](Resources/Configure-AllSettings-Environment-AutoRecover-00.png)
+![](Resources/Configuration-AllSettings-Environment/General-00.png)
+![](Resources/Configuration-AllSettings-Environment/VisualExperience-00.png)
+![](Resources/Configuration-AllSettings-Environment/Accounts-00.png)
+![](Resources/Configuration-AllSettings-Environment/AutoRecover-00.png)
 **Environment > Clean Solution**
-![](Resources/Configure-AllSettings-Environment-CleanSolution-00.png)
+![](Resources/Configuration-AllSettings-Environment/CleanSolution-00.png)
 **Environment > Code Cleanup On Save**
-![](Resources/Configure-AllSettings-Environment-CodeCleanupOnSave-00.png)
+![](Resources/Configuration-AllSettings-Environment/CodeCleanupOnSave-00.png)
 **Environment > Command Line**
-![](Resources/Configure-AllSettings-Environment-CommandLine-00.png)
-![](Resources/Configure-AllSettings-Environment-Documents-00.png)
-![](Resources/Configure-AllSettings-Environment-Extensions-00.png)
+![](Resources/Configuration-AllSettings-Environment/CommandLine-00.png)
+![](Resources/Configuration-AllSettings-Environment/Documents-00.png)
+![](Resources/Configuration-AllSettings-Environment/Extensions-00.png)
 **Environment > Fonts and Colors**
 ***NFORMATION SOON***
 **Environment > Import and Export Settings**
 Modify this for your development environment.
-![](Resources/Configure-AllSettings-Environment-InternationalSettings-00.png)
+![](Resources/Configuration-AllSettings-Environment/InternationalSettings-00.png)
 **Environment > Fonts and Colors**
 ***NO CHANGES***
 **Environment > Product Updates**
-![](Resources/Configure-AllSettings-Environment-ProductUpdates-00.png)
-![](Resources/Configure-AllSettings-Environment-Search-00.png)
-![](Resources/Configure-AllSettings-Environment-Security-00.png)
-![](Resources/Configure-AllSettings-Environment-Tabs-00.png)
-![](Resources/Configure-AllSettings-Environment-TaskList-00.png)
-![](Resources/Configure-AllSettings-Environment-Terminal-00.png)
+![](Resources/Configuration-AllSettings-Environment/ProductUpdates-00.png)
+![](Resources/Configuration-AllSettings-Environment/Search-00.png)
+![](Resources/Configuration-AllSettings-Environment/Security-00.png)
+![](Resources/Configuration-AllSettings-Environment/Tabs-00.png)
+![](Resources/Configuration-AllSettings-Environment/TaskList-00.png)
+![](Resources/Configuration-AllSettings-Environment/Terminal-00.png)
 **Environment > Trailing Whitespace**
-![](Resources/Configure-AllSettings-Environment-TrailingWhitespace-00.png)
+![](Resources/Configuration-AllSettings-Environment/TrailingWhitespace-00.png)
 **Environment > Tweaks 2022**
-![](Resources/Configure-AllSettings-Environment-Tweaks2022-00.png)
-![](Resources/Configure-AllSettings-Environment-Windows-00.png)
+![](Resources/Configuration-AllSettings-Environment/Tweaks2022-00.png)
+![](Resources/Configuration-AllSettings-Environment/Windows-00.png)
 
+</details>
 
+<details>
+<summary>Projects and Solutions</summary>
 
-
-
+![](Resources/Configuration-AllSettings-ProjectsAndSolutions/General-00.png)
+![](Resources/Configuration-AllSettings-ProjectsAndSolutions/AspDotNetCore-00.png)
 
 
 
