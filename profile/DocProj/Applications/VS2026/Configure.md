@@ -113,7 +113,7 @@
 ![](Resources/Configuration-AllSettings-Languages/CSharp-10.png)  
 **Languages > C# > Code Style > Formatting > Naming**
 ![](Resources/Configuration-AllSettings-Languages/CSharp-11.png)  
-
+![](Resources/Configuration-AllSettings-Languages/CSharp-12.png)  
 </details>
 
 
