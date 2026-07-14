@@ -15,6 +15,8 @@
 | CONTENTS |
 | -------- |
 | [Install](Install.md) |
+| [Extensions](Extensions.md) |
+| [Configure](Configure.md) |
 | [Setup](Setup.md) |
 | [Publishing](Publishing.md) |
 
@@ -24,4 +26,4 @@
 
 [The Documentation Project](../../README.md) ❭ Applications  ❭ Visual Studio 2026
 
-<sub>Last updated: 260713</sub>
+<sub>Last updated: 260714</sub>
