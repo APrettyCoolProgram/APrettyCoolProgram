@@ -14,6 +14,18 @@
 
 </div>
 
+## Left
+
+![](Resources/Customize/Left-00.png)
+
+## Right
+
+![](Resources/Customize/Right-00.png)
+
+## Bottom
+
+![](Resources/Customize/Bottom-00.png)
+  
 ***
 
 [The Documentation Project](../../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Customize Visual Studio 2026
