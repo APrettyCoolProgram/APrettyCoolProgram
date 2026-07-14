@@ -127,7 +127,7 @@
 <details>
 <summary>Claudia IDE</summary>
 
-**ClaudiaIDE > General**
+**ClaudiaIDE > General**  
 ![](Resources/Configuration-AllSettings-ClaudiaIDE/General-00.png)
 **ClaudiaIDE > Dark Theme**
 ![](Resources/Configuration-AllSettings-ClaudiaIDE/DarkTheme-00.png)
