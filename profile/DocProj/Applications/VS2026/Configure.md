@@ -1,4 +1,4 @@
-[The Documentation Project](../../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Configure Visual Studio 2026
+[The Documentation Project](../../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Configuring Visual Studio 2026
 
 <div align="center">
 
@@ -10,12 +10,13 @@
     <img alt="Fallback image description" src="../../../.github/logo/light/256x256.png">
   </picture>
 
-# Configure Visual Studio 2026 (18.7.3)
+# Configuring Visual Studio 2026 (18.7.3)
 
 </div>
 
 <details>
 <summary>Environment</summary>
+<br>
 
 ![](Resources/Configuration-AllSettings-Environment/General-00.png)
 ![](Resources/Configuration-AllSettings-Environment/VisualExperience-00.png)
@@ -53,6 +54,7 @@
 
 <details>
 <summary>Projects and Solutions</summary>
+<br>
 
 ![](Resources/Configuration-AllSettings-ProjectsAndSolutions/General-00.png)
 ![](Resources/Configuration-AllSettings-ProjectsAndSolutions/AspDotNetCore-00.png)
@@ -73,6 +75,7 @@
 
 <details>
 <summary>Text Editor</summary>
+<br>
 
 ![](Resources/Configuration-AllSettings-TextEditor/General-00.png)
 ![](Resources/Configuration-AllSettings-TextEditor/Advanced-00.png)
@@ -87,6 +90,7 @@
 
 <details>
 <summary>Languages</summary>
+<br>
 
 ![](Resources/Configuration-AllSettings-Languages/Defaults-00.png)
 ![](Resources/Configuration-AllSettings-Languages/Defaults-01.png)
@@ -126,81 +130,28 @@
 </details>
 
 <details>
-<summary>Claudia IDE</summary>
+<summary>Extensions</summary>
 <br>
-
-**ClaudiaIDE > General**  
-![](Resources/Configuration-AllSettings-ClaudiaIDE/General-00.png)  
-**ClaudiaIDE > Dark Theme**  
-![](Resources/Configuration-AllSettings-ClaudiaIDE/DarkTheme-00.png)  
-**ClaudiaIDE > Light Theme**  
-![](Resources/Configuration-AllSettings-ClaudiaIDE/LightTheme-00.png)
-
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tools > Options > All Settings
-
-### Environment
-
-* **Visual Experience** > **Color Theme**: `Dracula Theme`
-* **Documents** > Uncheck `Show Miscellaneous files...`
-* **Tabs** > **Tab colorization method**: `Project`
-* **Tabs** > Check `Maintain pin status...`
-* **Task List** >
-
-The task list should look like this:
-
-| Name        | Priority |  
-| ----------- | -------- |  
-| DEPRECIATED | Normal   |  
-| DEVNOTE     | Normal   |  
-| REVIEW      | Normal   |  
-
-* **Import and Export Settings** > Modify the `Automatically save my settings...` location
-
-### Projects and Solutions
-
-* **Locations** > Modify `Project location` location
-
-### Text Editor > General
-
-* **Display** > Check `Show whitespace`
-* **Display** > Check `Show zero-width characters`
-
-### Languages > C#
-
-* **Scroll Bars** > Vertical scroll bar mode: `Map mode`
-* **Scroll Bars** > Source overview width: `Narrow`
-
-
 
 ## ClaudiaIDE
 
-![](./Claudia/ItsOk-1200x1200.png)
-![](./Claudia/TheDude-799x706.png)
+**ClaudiaIDE > General**  
+![](Resources/Configuration-AllSettings-Extensions/ClaudiaIDE-00.png)  
+**ClaudiaIDE > Dark Theme**  
+![](Resources/Configuration-AllSettings-Extensions/ClaudiaIDE-02.png)  
+**ClaudiaIDE > Light Theme**  
+![](Resources/Configuration-AllSettings-Extensions/ClaudiaIDE-03.png)
 
-### Pretty Doc Comments
+## Collapse Comments
 
-* **Code Font**: `Cascadia Mono`
-* **Default Font**: `Cascadia Code`
-* **Collapse Comments to Summary**: `True`
+![](Resources/Configuration-AllSettings-Extensions/CollapseComments-00.png)
+
+## File Explorer
+![](Resources/Configuration-AllSettings-Extensions/FileExplorer-00.png)
+
+
+</details>
+
 
 
 
@@ -220,6 +171,6 @@ If you installed any of the [recommended extensions](Extensions.md), you may wan
 
 ***
 
-[The Documentation Project](../../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Configure Visual Studio 2026
+[The Documentation Project](../../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Configuring Visual Studio 2026
 
-<sub>Last updated: 260713</sub>
+<sub>Last updated: 260714</sub>
