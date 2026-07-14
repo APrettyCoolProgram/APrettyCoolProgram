@@ -100,7 +100,19 @@
 **Languages > C# > Code Style > General**
 ![](Resources/Configuration-AllSettings-Languages/CSharp-03.png)
 ![](Resources/Configuration-AllSettings-Languages/CSharp-04.png)
-![](Resources/Configuration-AllSettings-Languages/CSharp-05.png)
+![](Resources/Configuration-AllSettings-Languages/CSharp-05.png)  
+**Languages > C# > Code Style > Formatting > General**
+![](Resources/Configuration-AllSettings-Languages/CSharp-06.png)  
+**Languages > C# > Code Style > Formatting > Indentation**
+![](Resources/Configuration-AllSettings-Languages/CSharp-07.png)  
+**Languages > C# > Code Style > Formatting > New Lines**
+![](Resources/Configuration-AllSettings-Languages/CSharp-08.png)  
+**Languages > C# > Code Style > Formatting > Spacing**
+![](Resources/Configuration-AllSettings-Languages/CSharp-09.png)  
+**Languages > C# > Code Style > Formatting > Wrapping**
+![](Resources/Configuration-AllSettings-Languages/CSharp-10.png)  
+**Languages > C# > Code Style > Formatting > Naming**
+![](Resources/Configuration-AllSettings-Languages/CSharp-11.png)  
 
 </details>
 
