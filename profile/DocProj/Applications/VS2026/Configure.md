@@ -69,6 +69,36 @@
 ![](Resources/Configuration-AllSettings-ProjectsAndSolutions/WebPackageManagement-00.png)
 ![](Resources/Configuration-AllSettings-ProjectsAndSolutions/WebPackageManagement-01.png)
 
+</details>
+
+<details>
+<summary>Text Editor</summary>
+
+![](Resources/Configuration-AllSettings-TextEditor/General-00.png)
+![](Resources/Configuration-AllSettings-TextEditor/Advanced-00.png)
+![](Resources/Configuration-AllSettings-TextEditor/CodeCleanup-00.png)
+![](Resources/Configuration-AllSettings-TextEditor/InlayHints-00.png)
+![](Resources/Configuration-AllSettings-TextEditor/InlineSuggestions-00.png)
+![](Resources/Configuration-AllSettings-TextEditor/Margin-00.png)
+![](Resources/Configuration-AllSettings-TextEditor/CodeLens-00.png)
+![](Resources/Configuration-AllSettings-TextEditor/FileExtensions-00.png)
+
+</details>
+
+<details>
+<summary>Languages</summary>
+
+![](Resources/Configuration-AllSettings-Languages/Defaults-00.png)
+![](Resources/Configuration-AllSettings-Languages/Defaults-01.png)
+![](Resources/Configuration-AllSettings-Languages/AndroidXml-01.png)
+![](Resources/Configuration-AllSettings-Languages/AspDotNetWebForms-00.png)
+![](Resources/Configuration-AllSettings-Languages/AspDotNetWebForms-01.png)
+![](Resources/Configuration-AllSettings-Languages/CSharp-00.png)
+![](Resources/Configuration-AllSettings-Languages/CSharp-01.png)
+![](Resources/Configuration-AllSettings-Languages/CSharp-02.png)
+![](Resources/Configuration-AllSettings-Languages/CSharp-03.png)
+![](Resources/Configuration-AllSettings-Languages/CSharp-04.png)
+![](Resources/Configuration-AllSettings-Languages/CSharp-05.png)
 
 </details>
 
