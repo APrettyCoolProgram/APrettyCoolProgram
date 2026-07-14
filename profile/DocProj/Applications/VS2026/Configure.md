@@ -130,6 +130,25 @@
 </details>
 
 <details>
+<summary>GitHub</summary>
+<br>
+
+![](Resources/Configuration-AllSettings-Github/Copilot-00.png)
+![](Resources/Configuration-AllSettings-Github/Copilot-01.png)
+![](Resources/Configuration-AllSettings-Github/Copilot-02.png)
+
+</details>
+
+<details>
+<summary>IntelliCode</summary>
+<br>
+
+![](Resources/Configuration-AllSettings-IntelliCode/IntelliCode-00.png)
+
+</details>
+
+
+<details>
 <summary>Extensions</summary>
 <br>
 
@@ -138,9 +157,9 @@
 **ClaudiaIDE > General**  
 ![](Resources/Configuration-AllSettings-Extensions/ClaudiaIDE-00.png)  
 **ClaudiaIDE > Dark Theme**  
-![](Resources/Configuration-AllSettings-Extensions/ClaudiaIDE-02.png)  
+![](Resources/Configuration-AllSettings-Extensions/ClaudiaIDE-01.png)  
 **ClaudiaIDE > Light Theme**  
-![](Resources/Configuration-AllSettings-Extensions/ClaudiaIDE-03.png)
+![](Resources/Configuration-AllSettings-Extensions/ClaudiaIDE-02.png)
 
 ## Collapse Comments
 
@@ -149,27 +168,17 @@
 ## File Explorer
 ![](Resources/Configuration-AllSettings-Extensions/FileExplorer-00.png)
 
+## Image Optimizer
+![](Resources/Configuration-AllSettings-Extensions/ImageOptimizer-00.png)
+
+## Markdown Lint
+![](Resources/Configuration-AllSettings-Extensions/MarkdownLint-00.png)
+![](Resources/Configuration-AllSettings-Extensions/MarkdownLint-01.png)
+
+## XAML Styler
+![](Resources/Configuration-AllSettings-Extensions/XamlStyler-00.png)
 
 </details>
-
-
-
-
-### Editor Guidelines
-
-1. Go to `Tools > Options > Environment > Fonts and Colors`
-2. Choose `Guideline` from the *Display Items* list
-3. Pick a color you like!
-
-
-
-## Extensions
-
-If you installed any of the [recommended extensions](Extensions.md), you may want to configure them to your liking.
-
-
-
-***
 
 [The Documentation Project](../../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Configuring Visual Studio 2026
 
