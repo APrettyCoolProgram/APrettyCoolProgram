@@ -10,16 +10,84 @@
     <img alt="Fallback image description" src="../../../.github/logo/light/256x256.png">
   </picture>
 
-# Configure Visual Studio 2026
+# Configure Visual Studio 2026 (18.7.3)
 
 </div>
 
 | CONTENTS |
 | -------- |
-| [General Settings](#general-settings) |
+| [All Settings](#all-settings) |
 | [Extensions](#extensions) |
 
-## General Settings
+## All Settings
+
+<details>
+<summary>Environment</summary>
+
+![](Resources/Configure-AllSettings-Environment-General-00.png)
+![](Resources/Configure-AllSettings-Environment-VisualExperience-00.png)
+![](Resources/Configure-AllSettings-Environment-Accounts-00.png)
+![](Resources/Configure-AllSettings-Environment-AutoRecover-00.png)
+**Environment > Clean Solution**
+![](Resources/Configure-AllSettings-Environment-CleanSolution-00.png)
+**Environment > Code Cleanup On Save**
+![](Resources/Configure-AllSettings-Environment-CodeCleanupOnSave-00.png)
+**Environment > Command Line**
+![](Resources/Configure-AllSettings-Environment-CommandLine-00.png)
+![](Resources/Configure-AllSettings-Environment-Documents-00.png)
+![](Resources/Configure-AllSettings-Environment-Extensions-00.png)
+**Environment > Fonts and Colors**
+***NFORMATION SOON***
+**Environment > Import and Export Settings**
+Modify this for your development environment.
+![](Resources/Configure-AllSettings-Environment-InternationalSettings-00.png)
+**Environment > Fonts and Colors**
+***NO CHANGES***
+**Environment > Product Updates**
+![](Resources/Configure-AllSettings-Environment-ProductUpdates-00.png)
+![](Resources/Configure-AllSettings-Environment-Search-00.png)
+![](Resources/Configure-AllSettings-Environment-Security-00.png)
+![](Resources/Configure-AllSettings-Environment-Tabs-00.png)
+![](Resources/Configure-AllSettings-Environment-TaskList-00.png)
+![](Resources/Configure-AllSettings-Environment-Terminal-00.png)
+**Environment > Trailing Whitespace**
+![](Resources/Configure-AllSettings-Environment-TrailingWhitespace-00.png)
+**Environment > Tweaks 2022**
+![](Resources/Configure-AllSettings-Environment-Tweaks2022-00.png)
+![](Resources/Configure-AllSettings-Environment-Windows-00.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Tools > Options > All Settings
 
@@ -52,9 +120,8 @@ The task list should look like this:
 
 ### Languages > C#
 
-
-
-
+* **Scroll Bars** > Vertical scroll bar mode: `Map mode`
+* **Scroll Bars** > Source overview width: `Narrow`
 
 
 
