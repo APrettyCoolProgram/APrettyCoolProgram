@@ -130,11 +130,9 @@
 <br>
 
 **ClaudiaIDE > General**  
-![](Resources/Configuration-AllSettings-ClaudiaIDE/General-00.png)
-
+![](Resources/Configuration-AllSettings-ClaudiaIDE/General-00.png)  
 **ClaudiaIDE > Dark Theme**  
-![](Resources/Configuration-AllSettings-ClaudiaIDE/DarkTheme-00.png)
-
+![](Resources/Configuration-AllSettings-ClaudiaIDE/DarkTheme-00.png)  
 **ClaudiaIDE > Light Theme**  
 ![](Resources/Configuration-AllSettings-ClaudiaIDE/LightTheme-00.png)
 
