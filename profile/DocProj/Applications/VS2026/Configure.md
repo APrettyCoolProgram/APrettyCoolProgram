@@ -93,7 +93,7 @@
 ![](Resources/Configuration-AllSettings-Languages/AndroidXml-01.png)
 ![](Resources/Configuration-AllSettings-Languages/AspDotNetWebForms-00.png)
 ![](Resources/Configuration-AllSettings-Languages/AspDotNetWebForms-01.png)
-![](Resources/Configuration-AllSettings-Languages/CSharp-00.png  
+![](Resources/Configuration-AllSettings-Languages/CSharp-00.png)  
 **Languages > C# > Advanced**
 ![](Resources/Configuration-AllSettings-Languages/CSharp-01.png)
 ![](Resources/Configuration-AllSettings-Languages/CSharp-02.png)  
