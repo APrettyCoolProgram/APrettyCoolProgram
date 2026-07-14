@@ -113,10 +113,28 @@
 ![](Resources/Configuration-AllSettings-Languages/CSharp-10.png)  
 **Languages > C# > Code Style > Formatting > Naming**
 ![](Resources/Configuration-AllSettings-Languages/CSharp-11.png)  
-![](Resources/Configuration-AllSettings-Languages/CSharp-12.png)  
+![](Resources/Configuration-AllSettings-Languages/CSharp-12.png)
+
 </details>
 
+<details>
+<summary>Preview Features</summary>
 
+![](Resources/Configuration-AllSettings-PreviewFeatures/PreviewFeatures-00.png)
+
+</details>
+
+<details>
+<summary>Claudia IDE</summary>
+
+**ClaudiaIDE > General**
+![](Resources/Configuration-AllSettings-ClaudiaIDE/General-00.png)
+**ClaudiaIDE > Dark Theme**
+![](Resources/Configuration-AllSettings-ClaudiaIDE/DarkTheme-00.png)
+**ClaudiaIDE > Light Theme**
+![](Resources/Configuration-AllSettings-ClaudiaIDE/LightTheme-00.png)
+
+</details>
 
 
 
