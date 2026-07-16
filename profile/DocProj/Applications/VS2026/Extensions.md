@@ -14,14 +14,6 @@
 
 </div>
 
-> [!NOTE]
-> As of version 18.7.3, the following extensions are installed by default:
-> - Copilot.LogViewerExtension
-> - Microsoft Library Manager
-> - ML.NET Model Builder 2022
-> - Single-project MSIX Packaging Tools for VS 2022-26
-> - Visual Studio Snapshot Debugger
-
 To install an extension:
 
 1. Go to `Extensions -> Manage Extensions...`
