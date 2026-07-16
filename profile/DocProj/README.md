@@ -34,10 +34,6 @@
 
 * [Repository template](https://github.com/APrettyCoolProgram/Repository-Template)
 
-## Wallpapers
-
-*[Desktop wallpapers](./Miscellaneous/README.md)
-
 ## WSL
 
-* [Windows Subsystem for Linux (WSL)](./WSL/README.md)
+* [Windows Subsystem for Linux (WSL)](WSL/README.md)
