@@ -6,7 +6,7 @@
     <img alt="Fallback image description" src="../.github/logo/light/256x256.png">
   </picture>
 
-  <h1>The APCP Documentation Project</h1>
+  <h1>The Documentation Project</h1>
 
   ![RELEASE](https://img.shields.io/badge/Release-26.7-teal)&nbsp;
 
@@ -14,15 +14,10 @@
 
 ## Applications
 
-* [AutoHotkey.ahk](Applications/AutoHotKey.ahk)
-* [Sandcastle Help File Builder](Applications/SHFB/README.md)
-* [Scoop](Applications/Scoop.md)
-* Visual Studio 2026
-  * [Installing](Applications/VS2026/Install.md)
-  * [Recommended extensions](Applications/VS2026/Extensions.md)
-  * [Configuring](Applications/VS2026/Configure.md)
-  * [Publishing](Applications/VS2026/Publishing.md)
-* [Visual Studio Code](Applications/VSCode/README.md)
+* [Sandcastle Help File Builder](SandcastleHelpFileBuilder/README.md)
+* [Scoop](Scoop/README.md)
+* [Visual Studio 2026](VisualStudio2026/README.md)
+* [Visual Studio Code](VisualStudioCode/README.md)
 
 ## AI
 

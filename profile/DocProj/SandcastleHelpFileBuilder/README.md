@@ -1,13 +1,13 @@
-[The Documentation Project](../../README.md) ❭ Applications ❭ Sandcastle Help File Builder
+[The Documentation Project](../../README.md) ❭ Sandcastle Help File Builder
 
 <div align="center">
 
 ### The Documentation Project
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../../../.github/logo/dark/256x256.png">
-    <source media="(prefers-color-scheme: light)" srcset="../../../.github/logo/light/256x256.png">
-    <img alt="Fallback image description" src="../../../.github/logo/light/256x256.png">
+    <source media="(prefers-color-scheme: dark)" srcset="../../.github/logo/dark/256x256.png">
+    <source media="(prefers-color-scheme: light)" srcset="../../.github/logo/light/256x256.png">
+    <img alt="Fallback image description" src="../../.github/logo/light/256x256.png">
   </picture>
 
 # Sandcastle Help File Builder
@@ -15,7 +15,7 @@
 </div>
 
 | CONTENTS |
-|:--------|
+|:---------|
 | [Integration with Visual Studio](#integration-with-visual-studio) |
 | [Create a new Visual Studio Documentation Project](#create-a-new-visual-studio-documentation-project) |
 | [Generating Sandcastle documentation](#generating-sandcastle-documentation) |
@@ -191,6 +191,6 @@ A few minutes after the `myproject` repository has been updated, the GitHub Page
 
 ***
 
-[The Documentation Project](../../README.md) ❭ Applications ❭ Sandcastle Help File Builder
+[The Documentation Project](../../README.md) ❭ Sandcastle Help File Builder
 
-<sub>Last updated: 260713</sub>
+<sub>Last updated: 260716</sub>

@@ -1,4 +1,4 @@
-[The Documentation Project](README.md) ❭ Applications > Scoop
+[The Documentation Project](README.md) ❭ Scoop
 
 <!--
 This documentation is not currently used/displayed.
@@ -9,9 +9,9 @@ This documentation is not currently used/displayed.
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../../../.github/logo/dark/256x256.png">
-    <source media="(prefers-color-scheme: light)" srcset="../../../.github/logo/light/256x256.png">
-    <img alt="Fallback image description" src="../../../.github/logo/light/256x256.png">
+    <source media="(prefers-color-scheme: dark)" srcset="../../.github/logo/dark/256x256.png">
+    <source media="(prefers-color-scheme: light)" srcset="../../.github/logo/light/256x256.png">
+    <img alt="Fallback image description" src="../../.github/logo/light/256x256.png">
   </picture>
 
 # Scoop
@@ -21,11 +21,15 @@ This documentation is not currently used/displayed.
 > [!WARNING]
 > Scoop must be installed on an NTFS-formatted drive.
 
-[Scoop](https://scoop.sh/)
+| CONTENTS |
+|----------|
+| [Preparation](#preparation) |
+| [Download installer](#download-installer) |
+| [Install](#install) |
+| [Add buckets](#add-buckets) |
+| [Install applications](#install-applications) |
 
-## Install Scoop
-
-### Scoop prerequisites
+## Preparation
 
 > This command must be run before using dvn, in an elevated PowerShell terminal (Administrator mode).
 
@@ -33,7 +37,7 @@ The first command makes your device allow running the installation and managemen
 
 `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
 
-### Download the Scoop installer
+## Download installer
 
 Since we want to install Scoop to a custom location, we need to download the installer so we can run it with the appropriate parameters.
 
@@ -45,7 +49,7 @@ For example:
 
 `B:\Installers\Scoop\install.ps1`
 
-### Install
+## Install
 
 > [!NOTE]
 > The current version of dvn does not use global installs.
@@ -65,46 +69,43 @@ Make sure the required buckets are added::
 `scoop bucket add extras`
 `scoop bucket add sysinternals`
 
-## Install Scoop applications
+## Install applications
 
-* `scoop install extras/audacity`
-* `scoop install extras/cryptomator`
-* `scoop install extras/etcher`
-* `scoop install extras/rufus`
-* `scoop install extras/smartgit`
-* `scoop install extras/vscode`
-* `scoop install extras/yumi-exfat`
-* `scoop install sysinternals/sysinternals-suite`
+Search for application here: [Scoop](https://scoop.sh/)
 
-
-  
-<!--
+* `scoop install extras/7zip`
 * `scoop install extras/autohotkey`
 * `scoop install extras/cpu-z`
+* `scoop install extras/cryptomator`
+* `scoop install extras/emeditor`
+* `scoop install extras/firefox`
+* `scoop install extras/gimp`
+* `scoop install extras/gpu-z`
+* `scoop install extras/lmstudio`
+* `scoop install extras/notepadplusplus`
+* `scoop install extras/sublime-text`
+* `scoop install extras/treesize-free`
+* `scoop install extras/vscode`
+* `scoop install sysinternals/sysinternals-suite`
+
+<!--
 * `scoop install extras/crystaldiskinfo`
 * `scoop install extras/crystaldiskmark`
-* `scoop install dbeaver`
 * `scoop install extras/discord`
 * `scoop install extras/draw.io`
 * `scoop install extras/etcher`
 * `scoop install extras/ferdium`
 * `scoop install extras/filezilla`
-* `scoop install extras/firefox`
-* `scoop install extras/gimp`
 * `scoop install extras/gisto`
 * `scoop install main/git`
 * `scoop install extras/godot-mono`
-* `scoop install extras/gpu-z`
 * `scoop install extras/hwinfo`
 * `scoop install extras/kitty`
 * `scoop install extras/love`
-* `scoop install extras/notepadplusplus`
 * `scoop install extras/putty`
 * `scoop install extras/rufus`
 * `scoop install extras/signal`
 * `scoop install extras/smartgit`
-* `scoop install extras/sublime-text`
-* `scoop install sysinternals/sysinternals-suite`
 * `scoop install extras/telegram`
 * `scoop install extras/vlc`
 * `scoop install extras/windirstat`
@@ -114,10 +115,8 @@ Make sure the required buckets are added::
 
 <br>
 
-<br/>
-
 ***
 
-[The Documentation Project](README.md) ❭ Applications > Scoop
+[The Documentation Project](README.md) ❭ Scoop
 
-<sub>Last updated: 260603</sub>
+<sub>Last updated: 260716</sub>
