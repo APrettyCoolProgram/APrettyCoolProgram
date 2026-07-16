@@ -1,12 +1,8 @@
 [The Documentation Project](README.md) ❭ Scoop
 
-<!--
-This documentation is not currently used/displayed.
---->
+<div align="center">
 
 ### The Documentation Project
-
-<div align="center">
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../../.github/logo/dark/256x256.png">

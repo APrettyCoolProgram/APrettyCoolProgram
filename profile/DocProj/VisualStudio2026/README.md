@@ -1,4 +1,4 @@
-[The Documentation Project](../../README.md) ❭ Applications  ❭ Visual Studio 2026
+[The Documentation Project](../../README.md) ❭ Visual Studio 2026
 
 <div align="center">
 
@@ -14,16 +14,15 @@
 
 | CONTENTS |
 | -------- |
-| [Install](Install.md) |
-| [Extensions](Extensions.md) |
-| [Configure](Configure.md) |
-| [Setup](Setup.md) |
-| [Publishing](Publishing.md) |
+| [Installing ](Install.md) |
+| [Recommended extensions](Extensions.md) |
+| [Configuring](Configure.md) |
+| [Customizing](Setup.md) |
 
 </div>
 
 ***
 
-[The Documentation Project](../../README.md) ❭ Applications  ❭ Visual Studio 2026
+[The Documentation Project](../../README.md) ❭ Visual Studio 2026
 
-<sub>Last updated: 260714</sub>
+<sub>Last updated: 260716</sub>
