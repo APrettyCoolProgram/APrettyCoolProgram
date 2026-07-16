@@ -82,6 +82,7 @@ Search for application here: [Scoop](https://scoop.sh/)
 * `scoop install extras/sublime-text`
 * `scoop install extras/treesize-free`
 * `scoop install extras/vscode`
+* `scoop install extras/wsl-ui`
 * `scoop install sysinternals/sysinternals-suite`
 
 <!--
