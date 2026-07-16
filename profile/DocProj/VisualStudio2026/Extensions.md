@@ -1,13 +1,13 @@
-[The Documentation Project](../../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Visual Studio 2026 Extensions
+[The Documentation Project](../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Visual Studio 2026 Extensions
 
 <div align="center">
 
 ### The Documentation Project
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../../../.github/logo/dark/256x256.png">
-    <source media="(prefers-color-scheme: light)" srcset="../../../.github/logo/light/256x256.png">
-    <img alt="Fallback image description" src="../../../.github/logo/light/256x256.png">
+    <source media="(prefers-color-scheme: dark)" srcset="../../.github/logo/dark/256x256.png">
+    <source media="(prefers-color-scheme: light)" srcset="../../.github/logo/light/256x256.png">
+    <img alt="Fallback image description" src="../../.github/logo/light/256x256.png">
   </picture>
 
 # Visual Studio 2026 Extensions
@@ -105,7 +105,7 @@ Themes/color schemes/etc. are a personal choice. I use these:
 
 ***
 
-[The Documentation Project](../../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Visual Studio 2026 Extensions
+[The Documentation Project](../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Visual Studio 2026 Extensions
 
 <sub>Last updated: 260716</sub>
 

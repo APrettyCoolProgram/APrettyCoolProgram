@@ -1,4 +1,4 @@
-[The Documentation Project](README.md) ❭ Scoop
+[The Documentation Project](../README.md) ❭ Scoop
 
 <div align="center">
 
@@ -113,6 +113,6 @@ Search for application here: [Scoop](https://scoop.sh/)
 
 ***
 
-[The Documentation Project](README.md) ❭ Scoop
+[The Documentation Project](../README.md) ❭ Scoop
 
 <sub>Last updated: 260716</sub>
