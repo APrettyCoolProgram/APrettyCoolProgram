@@ -18,9 +18,9 @@
 * [Sandcastle Help File Builder](Applications/SHFB/README.md)
 * [Scoop](Applications/Scoop.md)
 * Visual Studio 2026
-  * [Install](Applications/VS2026/Install.md)
-  * [Extensions](Applications/VS2026/Extensions.md)
-  * [Configure](Applications/VS2026/Configure.md)
+  * [Installing](Applications/VS2026/Install.md)
+  * [Recommended extensions](Applications/VS2026/Extensions.md)
+  * [Configuring](Applications/VS2026/Configure.md)
   * [Publishing](Applications/VS2026/Publishing.md)
 * [Visual Studio Code](Applications/VSCode/README.md)
 
