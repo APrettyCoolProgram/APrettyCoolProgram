@@ -26,6 +26,7 @@ To install an extension:
 [Mads Kristensen](https://www.madskristensen.net/) is a Principal Product Manager for Visual Studio, and has made some awesome extensions.
 
 - [ ] [Add New File (64-bit)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile64)
+- [ ] [Bookmarks Studio](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BookmarkStudio)
 - [ ] [Clean Solution](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CleanSolution)
 - [ ] [Code Cleanup On Save](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CodeCleanupOnSave)
 - [ ] [Color Preview](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ColorPreview)
@@ -46,10 +47,11 @@ To install an extension:
 - [ ] [JSON Schema Tools](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JSONSchemaGenerator2)
 - [ ] [KnownMonikers Explorer (64 bit)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.KnownMonikersExplorer2022)
 - [ ] [Markdown Editor v2](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor2)
-- [ ] [Markdown Linter](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownLint)
+- [ ] [Markdown Lint](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownLint)
 - [ ] [Open Command Line](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine64)
 - [ ] [Open in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenInVisualStudioCode)
 - [ ] [Output Window Filter](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OutputWindowFilter)
+- [ ] [Scratch Files](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ScratchFiles)
 - [ ] [Show Selection Length](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ShowSelectionLength)
 - [ ] [Solution Colors](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.SolutionColors)
 - [ ] [Solution Favorites](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.SolutionFavorites)
@@ -83,14 +85,14 @@ Official extensions and themes from Microsoft.
 - [ ] [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelinesPreview)
 - [ ] [Extended XML Doc Comments Provider](https://marketplace.visualstudio.com/items?itemName=EWoodruff.ExtendedDocCommentsProvider2022)
 - [ ] [Json Formatter](https://marketplace.visualstudio.com/items?itemName=KentonStandard.JsonFormatter)
+- [ ] [JSON Pretty](https://marketplace.visualstudio.com/items?itemName=Hemax2000.JsonPretty)
 - [ ] [Output Enhancer](https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer)
 - [ ] [Roslynator 2022](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2022)
 - [ ] [SolutionMapper](https://marketplace.visualstudio.com/items?itemName=TJGokken.solmap2025)
 - [ ] [Spell Check My Code](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2022andLater)
 - [ ] [XAML Styler for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler2022)
 <!--
-- [Avalonia](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaVS)
-- [ ] [JSON Pretty](https://marketplace.visualstudio.com/items?itemName=Hemax2000.JsonPretty)
+- [ ] [Avalonia](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaVS)
 - [ ] [VSColorOutput64](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput64)
 -->
 
@@ -105,4 +107,11 @@ Themes/color schemes/etc. are a personal choice. I use these:
 
 [The Documentation Project](../../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Visual Studio 2026 Extensions
 
-<sub>Last updated: 260713</sub>
+<sub>Last updated: 260716</sub>
+
+<!--
+Bookmark Studio
+Scratch Files
+Json Pretty
+
+-->
