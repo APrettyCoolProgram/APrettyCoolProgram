@@ -1,4 +1,4 @@
-[The Documentation Project](../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Configuring Visual Studio 2026
+[The Documentation Project](../README.md) ❭ [Visual Studio 2026](README.md) ❭ Configuring Visual Studio 2026
 
 <div align="center">
 
@@ -184,6 +184,7 @@
 
 ***
 
-[The Documentation Project](../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Configuring Visual Studio 2026
+
+[The Documentation Project](../README.md) ❭ [Visual Studio 2026](README.md) ❭ Configuring Visual Studio 2026
 
 <sub>Last updated: 260716</sub>

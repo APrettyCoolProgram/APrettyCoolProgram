@@ -14,10 +14,10 @@
 
 | CONTENTS |
 | -------- |
-| [Installing ](Install.md) |
-| [Recommended extensions](Extensions.md) |
+| [Installing](Install.md) |
+| [Recommended Extensions](Extensions.md) |
 | [Configuring](Configure.md) |
-| [Customizing](Setup.md) |
+| [Customizing](Customize.md) |
 
 </div>
 

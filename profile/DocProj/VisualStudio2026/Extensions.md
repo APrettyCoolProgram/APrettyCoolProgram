@@ -1,4 +1,4 @@
-[The Documentation Project](../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Visual Studio 2026 Extensions
+[The Documentation Project](../README.md) ❭ [Visual Studio 2026](README.md) ❭ Recommended Extensions
 
 <div align="center">
 
@@ -10,7 +10,7 @@
     <img alt="Fallback image description" src="../../.github/logo/light/256x256.png">
   </picture>
 
-# Visual Studio 2026 Extensions
+# Recommended Extensions
 
 </div>
 
@@ -105,7 +105,7 @@ Themes/color schemes/etc. are a personal choice. I use these:
 
 ***
 
-[The Documentation Project](../README.md) ❭ Applications ❭ Visual Studio 2026 ❭ Visual Studio 2026 Extensions
+[The Documentation Project](../README.md) ❭ [Visual Studio 2026](README.md) ❭ Recommended Extensions
 
 <sub>Last updated: 260716</sub>
 
