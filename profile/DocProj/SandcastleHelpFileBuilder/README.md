@@ -111,7 +111,7 @@ No changes.
 
 #### Project Properties -> Paths
 
-1. Change **Help content output path** to `..\..\docs\API\%Project-Name`
+1. Change **Help content output path** to `..\..\docs\api`
 
 ![](paths.png)
 
@@ -143,7 +143,7 @@ Using the documentation project:
 
 1. Right-click -> *Documentation Sources*
 2. **Add documentation source**
-3. Add the `.shfbproj` file
+3. Add the `.csproj` file of the project you are documenting
 
 ### Exclude documentation projects from the Solution build
 
