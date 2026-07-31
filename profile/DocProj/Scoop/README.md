@@ -62,53 +62,75 @@ For example:
 
 Make sure the required buckets are added::
 
-`scoop bucket add extras`
-`scoop bucket add sysinternals`
+* `scoop bucket add extras`
+* `scoop bucket add games`
+* `scoop bucket add sysinternals`
 
 ## Install applications
 
-Search for application here: [Scoop](https://scoop.sh/)
+### Main bucket
 
-* `scoop install extras/7zip`
+* `scoop install main/7zip`
+* `scoop install main/syncthing`
+
+### Extras bucket
+
+* `scoop install extras/audacity`
 * `scoop install extras/autohotkey`
+* `scoop install extras/chromium`
+* `scoop install extras/compactgui`
 * `scoop install extras/cpu-z`
 * `scoop install extras/cryptomator`
-* `scoop install extras/emeditor`
-* `scoop install extras/firefox`
-* `scoop install extras/gimp`
-* `scoop install extras/gpu-z`
-* `scoop install extras/lmstudio`
-* `scoop install extras/notepadplusplus`
-* `scoop install extras/sublime-text`
-* `scoop install extras/treesize-free`
-* `scoop install extras/vscode`
-* `scoop install extras/wsl-ui`
-* `scoop install sysinternals/sysinternals-suite`
-
-<!--
 * `scoop install extras/crystaldiskinfo`
 * `scoop install extras/crystaldiskmark`
-* `scoop install extras/discord`
+* `scoop install extras/detect-it-easy`
 * `scoop install extras/draw.io`
-* `scoop install extras/etcher`
-* `scoop install extras/ferdium`
+* `scoop install extras/emeditor`
 * `scoop install extras/filezilla`
-* `scoop install extras/gisto`
-* `scoop install main/git`
+* `scoop install extras/firefox`
+* `scoop install extras/gimp`
 * `scoop install extras/godot-mono`
+* `scoop install extras/googlechrome`
+* `scoop install extras/gpu-z`
 * `scoop install extras/hwinfo`
+* `scoop install extras/hwmonitor`
+* `scoop install extras/lmstudio`
+* `scoop install extras/nirlauncher`
+* `scoop install extras/notepadplusplus`
+* `scoop install extras/nvidia-profile-inspector`
+* `scoop install extras/peazip`
+* `scoop install extras/pixelorama`
+* `scoop install extras/playnite`
+* `scoop install extras/remove-empty-directories`
+* `scoop install extras/revouninstaller`
+* `scoop install extras/rufus`
+* `scoop install extras/speccy`
+* `scoop install extras/sublime-text`
+*` scoop install extras/telegram`
+* `scoop install extras/vlc`
+* `scoop install extras/vscode`
+* `scoop install extras/windirstat`
+* `scoop install extras/wsl-ui`
+* `scoop install extras/yumi-exfat`
+
+<!-- Future installs
+
+* `scoop install versions/dotnet-sdk-lts`
+* `scoop install main/git`
 * `scoop install extras/kitty`
 * `scoop install extras/love`
 * `scoop install extras/putty`
-* `scoop install extras/rufus`
-* `scoop install extras/signal`
-* `scoop install extras/smartgit`
-* `scoop install extras/telegram`
-* `scoop install extras/vlc`
-* `scoop install extras/windirstat`
-* `scoop install extras/xampp`
-    * suggests installing extras/vcredist2022
+
 -->
+
+### Games bucket
+
+* `scoop install games/itch`
+
+
+### Sysinternals bucket
+
+* `scoop install sysinternals/sysinternals-suite`
 
 <br>
 
