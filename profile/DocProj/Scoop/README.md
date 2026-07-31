@@ -43,7 +43,7 @@ This command will download the installer to the root of the drive you want to in
 
 For example:
 
-`B:\Installers\Scoop\install.ps1`
+`$@"irm get.scoop.sh -outfile 'B:\Installers\Scoop\install.ps1'"`
 
 ## Install
 
