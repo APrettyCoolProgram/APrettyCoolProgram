@@ -39,11 +39,11 @@ Since we want to install Scoop to a custom location, we need to download the ins
 
 This command will download the installer to the root of the drive you want to install Scoop on:
 
-`$@"irm get.scoop.sh -outfile '{drive}:\install.ps1'"`
+`"irm get.scoop.sh -outfile '{drive}:\install.ps1'"`
 
 For example:
 
-`$@"irm get.scoop.sh -outfile 'B:\Installers\Scoop\install.ps1'"`
+`"irm get.scoop.sh -outfile 'B:\Installers\Scoop\install.ps1'"`
 
 ## Install
 
