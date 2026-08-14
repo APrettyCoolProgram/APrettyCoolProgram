@@ -84,11 +84,13 @@ Make sure the required buckets are added::
 * `scoop install extras/crystaldiskinfo`
 * `scoop install extras/crystaldiskmark`
 * `scoop install extras/detect-it-easy`
+* `scoop install extras/diskgenius`
 * `scoop install extras/draw.io`
 * `scoop install extras/emeditor`
 * `scoop install extras/filezilla`
 * `scoop install extras/firefox`
 * `scoop install extras/gimp`
+* `scoop install extras/gisto`
 * `scoop install extras/godot-mono`
 * `scoop install extras/googlechrome`
 * `scoop install extras/gpu-z`
