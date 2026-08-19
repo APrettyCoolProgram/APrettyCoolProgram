@@ -64,6 +64,7 @@ Make sure the required buckets are added::
 
 * `scoop bucket add extras`
 * `scoop bucket add games`
+* `scoop bucket add nonportable`
 * `scoop bucket add sysinternals`
 
 ## Install applications
@@ -81,6 +82,7 @@ Make sure the required buckets are added::
 * `scoop install extras/compactgui`
 * `scoop install extras/cpu-z`
 * `scoop install extras/cryptomator`
+    * `scoop install nonportable/winfsp-np`
 * `scoop install extras/crystaldiskinfo`
 * `scoop install extras/crystaldiskmark`
 * `scoop install extras/detect-it-easy`
