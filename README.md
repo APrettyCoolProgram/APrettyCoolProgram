@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./.github/logo/apcp-553x435.png" alt="A Pretty Cool Program">
+  <img src="./.github/logo/apcp-368x290.png" alt="A Pretty Cool Program">
 
 </div>
 
