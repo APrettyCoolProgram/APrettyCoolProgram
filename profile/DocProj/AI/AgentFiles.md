@@ -1,6 +1,6 @@
 <!-- Last updated: 260820 -->
 
-[The Documentation Project](../README.md) ❭ [Artificial Intelligence](README.md) ❭ AGENT Files
+[The Documentation Project](../README.md)  ❭ AGENT Files
 
 <div align="center">
 
@@ -24,4 +24,4 @@
 
 ***
 
-[The Documentation Project](../README.md) ❭ [Artificial Intelligence](README.md) ❭ AGENT Files
+[The Documentation Project](../README.md) ❭ AGENT Files

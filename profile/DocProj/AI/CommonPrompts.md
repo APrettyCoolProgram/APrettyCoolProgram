@@ -1,6 +1,6 @@
 <!-- Last updated: 260820 -->
 
-[The Documentation Project](../README.md) ❭ [Artificial Intelligence](README.md) ❭ Common Prompts
+[The Documentation Project](../README.md) ❭ Common Prompts
 
 <div align="center">
 
@@ -44,4 +44,4 @@ Keep the documentation detailed, but concise.
 
 ***
 
-[The Documentation Project](../README.md) ❭ [Artificial Intelligence](README.md) ❭ Common Prompts
+[The Documentation Project](../README.md) ❭ Common Prompts
