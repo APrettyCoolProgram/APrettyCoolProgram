@@ -1,3 +1,5 @@
+<!-- Last updated: 260820 -->
+
 [The Documentation Project](../README.md) ❭ [Artificial Intelligence](README.md) ❭ Common Prompts
 
 <div align="center">
@@ -10,7 +12,7 @@
     <img alt="Fallback image description" src="../../.github/logo/light/256x256.png">
   </picture>
 
-# Artificial Intelligence: Common Prompts
+# AI: Common Prompts
 
 </div>
 
@@ -43,5 +45,3 @@ Keep the documentation detailed, but concise.
 ***
 
 [The Documentation Project](../README.md) ❭ [Artificial Intelligence](README.md) ❭ Common Prompts
-
-<sub>Last updated: 260713</sub>

@@ -1,3 +1,5 @@
+<!-- Last updated: 260820 -->
+
 [The Documentation Project](../README.md) ❭ [Artificial Intelligence](README.md) ❭ AGENT Files
 
 <div align="center">
@@ -10,17 +12,16 @@
     <img alt="Fallback image description" src="../../.github/logo/light/256x256.png">
   </picture>
 
-# Artificial Intelligence: AGENT Files
+# AI: AGENT Files
 
 </div>
 
-* [AGENT.md](https://gist.github.com/APrettyCoolProgram/db5b7708c9ca236f3668bd39a036e1fe)
-* [AGENT-CSharp-XmlDocumentation.md ](https://gist.github.com/APrettyCoolProgram/0da90982c071060636c6c29570286f19)
+* [AGENT.md](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/AGENTS.md)
+* [AGENT-CSharp-XmlDocumentation.md](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/.github/agents/AGENT-CSharp-XmlDocumentation.md)
+* [AGENT-MtgDeck-MarkdownPage.md](https://github.com/APrettyCoolProgram/Repository-Template/blob/main/.github/agents/AGENT-MtgDeck-MarkdownPage.md)
 
 <br/>
 
 ***
 
 [The Documentation Project](../README.md) ❭ [Artificial Intelligence](README.md) ❭ AGENT Files
-
-<sub>Last updated: 260713</sub>
