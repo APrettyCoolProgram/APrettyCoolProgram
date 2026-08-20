@@ -8,8 +8,6 @@
 
   <h1>The Documentation Project</h1>
 
-  ![RELEASE](https://img.shields.io/badge/Release-26.7-teal)&nbsp;
-
 </div>
 
 ## Applications

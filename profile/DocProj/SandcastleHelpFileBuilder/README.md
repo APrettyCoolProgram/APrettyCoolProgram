@@ -1,3 +1,5 @@
+<!-- Last updated: 260820 -->
+
 [The Documentation Project](../README.md) ❭ Sandcastle Help File Builder
 
 <div align="center">
@@ -19,8 +21,9 @@
 | [Integration with Visual Studio](#integration-with-visual-studio) |
 | [Create a new Visual Studio Documentation Project](#create-a-new-visual-studio-documentation-project) |
 | [Generating Sandcastle documentation](#generating-sandcastle-documentation) |
+| [Customizing the documentation build](#customizing-the-documentation-build) |
 
----
+***
 
 ## Integration with Visual Studio
 
@@ -183,14 +186,43 @@ flowchart TB
 
 </div>
 
-### GitHub Pages
-
 A few minutes after the `myproject` repository has been updated, the GitHub Pages site will be refreshed.
+
+## Customizing the documentation build
+
+### Excluding files/folders from the documentation build
+
+To exclude files or folders from the documentation build, create a `_config.yml` file in the `docs/` directory.
+
+The file should look like this:
+
+```yaml
+exclude:
+  - appendix/
+  - devman/
+  - diagram/
+  - glossary/
+  - madc/
+  - man/
+  - release-notes/
+  - source-code/
+  - sourcecode/
+  - testing/
+  - CHANGELOG.md
+  - CODEOWNERS
+  - CONTRIBUTORS.md
+  - DEVELOPMENT.md
+  - FAQ.md
+  - KNOWN-ISSUES.md
+  - NOTICES.md
+  - ROADMAP.md
+  - SECURITY.md
+  - SUPPORT.md
+  - TROUBLESHOOTING.md
+```
 
 <br/>
 
 ***
 
 [The Documentation Project](../README.md) ❭ Sandcastle Help File Builder
-
-<sub>Last updated: 260716</sub>
